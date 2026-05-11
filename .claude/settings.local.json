@@ -5,7 +5,11 @@
       "mcp__pinecone-mcp__upsert-records",
       "Bash(Get-ChildItem \"C:\\\\Users\\\\pablo\\\\Documents\\\\libro-uap\\\\MANUSCRITO.md\")",
       "Bash(Select-Object Length)",
-      "PowerShell(Move-Item *)"
+      "PowerShell(Move-Item *)",
+      "Bash(git *)",
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\pablo\\\\Documents\\\\libro-uap\\\\secciones-aprobadas\" -Filter \"cap*.md\")",
+      "Bash(Select-Object Name)",
+      "Bash(Sort-Object Name)"
     ]
   }
 }
