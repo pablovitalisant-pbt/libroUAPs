@@ -3,7 +3,7 @@
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.400 palabras
-**Siguiente sección:** Cap08-C — [por definir]
+**Siguiente sección:** Cap09-A — La hipótesis que resiste
 
 ---
 
@@ -40,3 +40,9 @@ Ninguna doctrina de empleo de tecnología clasificada explica este comportamient
 La hipótesis de tecnología humana secreta es la más sólida de las alternativas a una conclusión no humana. Pero los cuatro problemas —antigüedad, filtración, escala geográfica y comportamiento— establecen que no alcanza a explicar el núcleo verificable de la Parte II. No porque sea débil. Sino porque el núcleo tiene características que ninguna tecnología humana, por secreta que sea, puede producir simultáneamente: un patrón que empieza antes de que existiera la aviación, una ausencia total de filtración durante 75 años, un despliegue global sin ventaja estratégica declarada, y un comportamiento que responde activamente a las maniobras de los interceptores sin atacarlos jamás.
 
 La hipótesis queda descartada para el núcleo. No para todos los reportes UAP —el U-2 ya demostró que algunos casos son tecnología humana secreta— sino para el subconjunto específico con las características que la Parte II documentó. El espacio de hipótesis se ha reducido otra vez.
+
+---
+
+Lo que el Capítulo 8 establece requiere tres precisiones. La primera: una fracción de los reportes UAP corresponde a tecnología humana secreta —la CIA lo documentó para el U-2. El descarte no afirma que toda tecnología clasificada sea un mito. Afirma que el núcleo verificable tiene características que la tecnología humana secreta no puede producir simultáneamente: antigüedad anterior a la aviación, ausencia total de filtración en 75 años, despliegue global sin ventaja estratégica y comportamiento que ninguna doctrina militar justifica. La segunda: dos hipótesis han sido eliminadas. El espacio de explicaciones posibles se ha reducido de "cualquiera" a "lo que queda". La tercera: eliminar dos hipótesis no equivale a afirmar la tercera. El argumento por eliminación no salta de "no es X ni Y" a "por tanto es Z". Recorre todas las alternativas antes de señalar lo que resiste.
+
+El espacio de hipótesis se ha reducido dos veces. El Capítulo 7 eliminó el error de percepción para el núcleo. El Capítulo 8 eliminó la tecnología humana secreta para ese mismo núcleo. Lo que queda no es el vacío —es la posición desde la que el Capítulo 9 puede examinar la única hipótesis que las demás no alcanzaron a descartar.

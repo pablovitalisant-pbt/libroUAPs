@@ -3,7 +3,7 @@
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.400 palabras
-**Siguiente sección:** Cap09-C — [por definir]
+**Siguiente sección:** Epílogo
 
 ---
 
@@ -40,3 +40,9 @@ Lo que la evidencia permite afirmar: no hay hostilidad documentada en el núcleo
 La pregunta que la evidencia no responde es la más obvia: ¿qué variante de agencia no humana? ¿Extraterrestre en el sentido clásico —otra civilización, otro sistema estelar? ¿Ultraterrestre —un dominio físico distinto sin distancia espacial? ¿Inteligencia terrestre no humana que coexiste con nosotros sin ser detectada? ¿Algo para lo que todavía no tenemos nombre? La evidencia acumulada en este libro es compatible con todas esas variantes y no favorece a ninguna. El libro no elige porque la evidencia no permite elegir.
 
 Lo que esta sección puede entregar no es una identidad. Es la coherencia entre la hipótesis que sobrevivió y las características observables del núcleo. Cuatro características. Cuatro compatibilidades. Ninguna es prueba. El conjunto es el producto de un método —la eliminación de lo que no resiste— aplicado con la misma honestidad a la evidencia disponible.
+
+---
+
+El argumento ha recorrido nueve capítulos y establece tres cosas. La primera: el fenómeno es físicamente real —no como opinión, como medición. Seis países tienen en sus archivos oficiales evidencia que sus propios analistas no pudieron explicar. La segunda: ninguna de las hipótesis convencionales explica el núcleo verificable. El error de percepción opera en la mente; la tecnología humana secreta tiene fecha de inicio y patrón de filtración. El núcleo no tiene ninguna de esas cosas. La tercera: la hipótesis de agencia no humana es la única que el proceso no eliminó. Compatible con la antigüedad del patrón, con la ausencia de filtración, con la escala del despliegue, con el comportamiento documentado. Sin certeza. Sin revelación. Señalada —no probada.
+
+El fenómeno lleva siendo documentado desde el año 593 antes de Cristo. Los instrumentos mejoraron durante dos mil seiscientos años. La conclusión que la evidencia permite no cambió en todo ese tiempo: hay algo en el cielo que responde a nuestras acciones, que nuestros instrumentos registran como físicamente real, y que no hemos construido ni hemos logrado entender. Eso no es un fracaso de la ciencia. Es la descripción exacta de dónde estamos. El Epílogo no prolonga el argumento. Lo sitúa en el momento en que este libro se publica —2026, el año en que los gobiernos comenzaron a publicar lo que antes archivaban.
