@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__pinecone-mcp__list-indexes",
+      "mcp__pinecone-mcp__upsert-records",
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\pablo\\\\Documents\\\\libro-uap\\\\MANUSCRITO.md\")",
+      "Bash(Select-Object Length)",
+      "PowerShell(Move-Item *)"
+    ]
+  }
+}

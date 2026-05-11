@@ -1,0 +1,42 @@
+# CAPÍTULO 11 — Sección B
+## *Lo que la evidencia permite decir*
+
+**Estado:** BORRADOR — Pendiente de revisión
+**Extensión:** ~1.400 palabras
+**Siguiente sección:** Cap11-C — [por definir]
+
+---
+
+El 19 de septiembre de 1976, el capitán Azizkhani intentó fijar un misil AIM-9 Sidewinder sobre un objeto que su radar pintaba con la firma de un Boeing 707. El Sidewinder es un misil guiado por infrarrojo: detecta el calor del escape de un motor a reacción y lo persigue. El objeto estaba allí —el radar lo confirmaba— y se movía a velocidades que implicaban una cantidad de energía cinética que debería producir una firma térmica imposible de no detectar. El Sidewinder no encontró nada que perseguir. El misil no falló. El misil no vio.
+
+Ese momento contiene en una sola anomalía dos características del núcleo que son consistentes con la hipótesis de agencia no humana: el objeto era físicamente real —el radar lo pintaba— pero no emitía el calor que cualquier sistema de propulsión conocido produciría para moverse a esas velocidades. Era y no era lo que la física de la ingeniería humana espera. Esa duplicidad —presencia confirmada por instrumentos, firma que desafía lo que los instrumentos deberían detectar— es la primera característica que la evidencia permite examinar.
+
+Los objetos del núcleo se mueven como nada que la ingeniería humana haya producido. En Washington D.C. en 1952, los ecos de radar aceleraban de velocidades muy bajas a miles de kilómetros por hora en segundos —sin estampido sónico, sin estela de condensación, sin el calor de fricción que acompaña a cualquier objeto que atraviesa la atmósfera a velocidad supersónica. En el incidente Nimitz de 2004, el "Tic Tac" descendió de 24.000 metros hasta nivel del mar en un intervalo que el comandante Fravor estimó en segundos —ningún avión, ningún misil, ningún objeto fabricado por humanos puede hacer eso sin desintegrarse. En Manises en 1979, el objeto rastreado por el Mirage F1 aceleró a más de Mach 1.4 y el caza no pudo mantener la persecución —pero el objeto lo hizo sin superficies de control visibles, sin toberas, sin alas.
+
+Lo que la evidencia permite afirmar: los objetos operan bajo principios de propulsión o movimiento que no están documentados en la literatura de ingeniería pública. Eso no equivale a decir que violan las leyes de la física. La relatividad general, la teoría cuántica de campos y otras ramas de la física teórica contemplan formas de energía y métodos de manipulación del espacio-tiempo que ningún laboratorio ha implementado en un vehículo funcional. Los objetos del núcleo no son imposibles según la física. Son imposibles según la ingeniería humana conocida. La anomalía está en el inventario de lo que podemos construir, no en el catálogo de lo que el universo permite. Para la hipótesis de agencia no humana, esa distinción es central: los objetos no violan la naturaleza. Violan nuestras capacidades.
+
+La segunda característica es la respuesta al entorno. El Sidewinder no encontró calor que perseguir. Pero el objeto sí encontró al F-4.
+
+En el momento en que Azizkhani apretó el gatillo —y el panel de armamento murió, y las comunicaciones se cortaron, y el radar dejó de responder—, algo en el objeto detectó algo en el entorno y respondió. No antes del intento de disparo. No mucho después. En el acople temporal exacto que el memorando de la DIA registró como una secuencia de eventos relacionados. El objeto principal emitió uno secundario que persiguió al Phantom a través de su maniobra de evasión sobre el Mar Caspio. Persiguió —no atacó.
+
+En Washington D.C., el patrón fue distinto pero igual de revelador. Los objetos desaparecían del radar cada vez que los F-94 se aproximaban y reaparecían en posiciones diferentes cuando los cazas se alejaban. Dos noches. Múltiples intentos de interceptación. El mismo comportamiento cada vez. Un fenómeno aleatorio no repite un patrón con esa precisión. Un piloto humano habría necesitado ver al caza aproximándose para desaparecer en el momento justo —lo que implica que el objeto detectaba la aproximación.
+
+En el JAL 1628, la respuesta fue aún más íntima: el objeto copió los cambios de altitud del Boeing 747 durante 50 minutos. Ascendía cuando Terauchi ascendía. Descendía cuando Terauchi descendía. La FAA reconstruyó la trayectoria con los datos de radar y confirmó la correlación. Mantener posición relativa con un avión que cambia de altitud durante casi una hora no es un movimiento balístico. Requiere un sistema que detecta, procesa y ejecuta ajustes de forma continua.
+
+Lo que la evidencia permite afirmar: los objetos poseen un sistema de detección y respuesta al entorno —lo que en el lenguaje más neutral disponible se llama conciencia situacional. Lo que no permite afirmar es que ese sistema implique mente, voluntad o intención en ningún sentido filosóficamente relevante. Un dron autónomo sofisticado tiene conciencia situacional. Un misil guiado tiene conciencia situacional. La diferencia entre un sistema que responde a estímulos y una inteligencia con propósitos es inmensa, y la evidencia disponible no permite cruzarla. La hipótesis de agencia no humana no requiere que los objetos piensen. Requiere que no los hayamos construido nosotros.
+
+La tercera característica es la persistencia temporal. El núcleo de atributos que los instrumentos modernos registran —presencia física, movimiento controlado que excede las capacidades de ingeniería de la época, testigos competentes que no pueden clasificar lo que ven— es idéntico al que los documentos históricos describen con las herramientas de su tiempo. Ezequiel en 593 a.C. vio una estructura con ruedas concéntricas y movimiento omnidireccional. Glaser en 1561 documentó esferas y cilindros que interactuaban mecánicamente en el cielo de Núremberg. Bonilla en 1883 fotografió objetos que cruzaban el disco solar en formación. Arnold en 1947 cronometró objetos a velocidad imposible. Los radares de 1952 en Washington D.C. detectaron lo mismo que los del Nimitz en 2004: objetos que aparecen y desaparecen, que aceleran sin transición, que no corresponden a nada conocido.
+
+Dos mil seiscientos años. Cinco civilizaciones sin contacto. El mismo residuo.
+
+Lo que la evidencia permite afirmar: si la causa es no humana, su presencia documentada abarca al menos 2.600 años. Lo que no permite afirmar: que haya sido continua. El registro contiene destellos —momentos de avistamiento separados por siglos—, no una crónica ininterrumpida. La hipótesis es compatible con un fenómeno recurrente, intermitente o cíclico. Cuál de esas opciones es la correcta —la evidencia no lo dice.
+
+La cuarta característica es lo que los objetos no hicieron. En ninguno de los encuentros del núcleo verificable hubo ataque.
+
+En Teherán, el secundario persiguió al F-4 pero no disparó —y tenía capacidad de sobra para interceptarlo. En Washington D.C., cuatro luces rodearon al F-94 del teniente Patterson y se alejaron. En Rendlesham, los rayos de luz cayeron a metros del equipo de Halt sin causar daño. En el JAL 1628, el objeto escoltó al 747 durante 50 minutos y desapareció al llegar a Anchorage. En el Nimitz, el Tic Tac respondió a las maniobras de Fravor sin un solo gesto ofensivo.
+
+Lo que la evidencia permite afirmar: no hay hostilidad documentada en el núcleo verificable. Lo que no permite afirmar: que la agencia sea pacífica, benevolente o indiferente. La ausencia de ataque no es lo mismo que la presencia de intención pacífica. Un observador puede no atacar por razones que no presuponen buena voluntad. El narrador registra el comportamiento. No lo interpreta.
+
+La pregunta que la evidencia no responde es la más obvia: ¿qué variante de agencia no humana? ¿Extraterrestre en el sentido clásico —otra civilización, otro sistema estelar? ¿Ultraterrestre —un dominio físico distinto sin distancia espacial? ¿Inteligencia terrestre no humana que coexiste con nosotros sin ser detectada? ¿Algo para lo que todavía no tenemos nombre? La evidencia acumulada en este libro es compatible con todas esas variantes y no favorece a ninguna. El libro no elige porque la evidencia no permite elegir.
+
+Lo que esta sección puede entregar no es una identidad. Es la coherencia entre la hipótesis que sobrevivió y las características observables del núcleo. Cuatro características. Cuatro compatibilidades. Ninguna es prueba. El conjunto es el producto de un método —la eliminación de lo que no resiste— aplicado con la misma honestidad a la evidencia disponible.

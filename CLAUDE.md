@@ -258,13 +258,11 @@ Son el núcleo irreductible. No mezclar con casos de menor verificación sin se�
 Actualizar en cada wrap-up.
 
 ```
-Último capítulo completado: —
-Última sección aprobada: —
-Próxima sección a escribir: PRÓLOGO — Sección A
-Decisiones de voz tomadas: voz del investigador, narrador en tercera persona
-Personajes ya establecidos: ninguno aún
-Fuentes ya citadas: ninguna aún
-Pendiente editorial: —
+LIBRO 1 COMPLETO — Prólogo + 11 capítulos + Epílogo. Todas las secciones aprobadas.
+Próximo: Libro 2 — El disclosure moderno (2017-2026)
+Decisiones de voz tomadas: primera persona en Prólogo; tercera persona (voz del investigador) en cuerpo analítico
+Personajes establecidos: Ezequiel ben Buzi, Hans Wolff Glaser, José Árbol y Bonilla, Camille Flammarion, Kenneth Arnold, Mohammad Reza Azizkhani, Charles Halt, Renato Nicolaï, Kenju Terauchi, Francisco Javier Lerdo de Tejada, y otros.
+Pendiente editorial: ninguna.
 ```
 
 ---
@@ -307,3 +305,13 @@ Al ejecutar wrap-up al final de una sesión de escritura del libro, capturar:
 - Ajustes a las reglas de escritura si los hubo
 - Próxima sección a escribir
 - Problemas o preguntas editoriales pendientes
+
+
+## INSTRUCCIONES PARA GUARDAR EL MANUSCRITO.md
+
+MANUSCRITO.md es gestionado exclusivamente por Pablo de forma manual.
+Claude Code NO modifica MANUSCRITO.md bajo ninguna circunstancia.
+Al aprobar una sección, Claude Code solo:
+1. Mueve el archivo de secciones-borrador/ a secciones-aprobadas/
+2. Actualiza el estado en CLAUDE.md
+Nunca escribe ni edita MANUSCRITO.md.

@@ -1,0 +1,38 @@
+# CAPÍTULO 5 — Sección C
+## *JAL 1628, noviembre 1986*
+
+**Estado:** BORRADOR — Pendiente de revisión
+**Extensión:** ~1.400 palabras
+**Siguiente sección:** Cap05-D — [por definir]
+
+---
+
+A las cinco y once minutos de la tarde del 17 de noviembre de 1986, el capitán Kenju Terauchi vio luces fuera de su ventanilla y pensó que eran aviones militares.
+
+El vuelo JAL 1628 de Japan Airlines —un Boeing 747 con 156 pasajeros— sobrevolaba Alaska a 10.670 metros de altitud, a unos 350 kilómetros al norte de Anchorage, en la ruta Reikiavik-Anchorage-Tokio. Terauchi no era un piloto novato. Tenía más de 10.000 horas de vuelo acumuladas, lo que lo situaba entre los pilotos más experimentados de Japan Airlines. Había visto aviones militares en maniobras sobre el Pacífico, aviones comerciales cruzándose en la noche, meteoros, satélites, auroras boreales. Lo que vio esa tarde no era ninguna de esas cosas.
+
+Las luces se aproximaron al 747. Eran dos objetos más pequeños que emitían una luz descrita por Terauchi como "llamas de gas de un quemador" —una formación de luces cuadriculadas, pulsantes, que no correspondía a las balizas de navegación de ningún avión civil o militar. Los objetos se situaron frente al 747, a una distancia estimada de 600 metros. Terauchi pidió al controlador de Anchorage que verificara tráfico en la zona. El controlador respondió que su radar solo mostraba al JAL 1628.
+
+Los dos objetos pequeños desaparecieron. Y entonces apareció el objeto grande.
+
+Terauchi lo describió como una silueta oscura, enorme, situada detrás del 747 a una distancia que no podía precisar. Estimó su tamaño en el doble del Boeing 747 —aproximadamente 120 metros de diámetro. El narrador debe detenerse aquí: esa cifra proviene exclusivamente del testimonio de Terauchi. No hay medición instrumental del tamaño del objeto. Un radar puede detectar la presencia de un objeto y su posición relativa, pero no puede medir su diámetro. Que Terauchi estimara 120 metros significa que él percibió algo de un tamaño que desbordaba su marco de referencia como piloto. La cifra es su testimonio, no una medición. La distinción importa.
+
+El objeto grande permaneció detrás del 747 durante lo que Terauchi estimó como casi cincuenta minutos. Durante ese tiempo, el radar del Air Route Traffic Control Center de Anchorage confirmó un eco en la posición del objeto. El radar del Centro Militar de Tráfico Aéreo, consultado independientemente, confirmó ecos en momentos coincidentes. El radar meteorológico de a bordo del JAL 1628 registró una presencia intermitente —una firma que aparecía y desaparecía, menos consistente que la del radar de tierra. El narrador no puede afirmar que tres radares confirmaran el objeto de forma continua. Puede afirmar que el radar civil de tierra confirmó un eco consistente, que el radar militar lo confirmó en momentos coincidentes, y que el radar de a bordo registró una firma parcial e intermitente.
+
+Terauchi llamó por radio a la torre de Anchorage. La transcripción existe. En ella, un piloto con 10.000 horas de vuelo describe, con la calma de quien ha pasado la vida en una cabina, que hay algo fuera de su avión que no puede identificar. El controlador le ofrece cambiar de altitud para evadir posible tráfico no reportado. Terauchi acepta. El 747 asciende. El objeto asciende con él. Desciende. El objeto desciende con él. Esto continúa durante casi una hora, hasta que el objeto desaparece y el JAL 1628 aterriza en Anchorage sin incidente.
+
+La Federal Aviation Administration abrió una investigación. El encargado fue John Callahan, jefe de la División de Sistemas de la FAA, cuya función era evaluar incidentes de tráfico aéreo que involucraran posibles riesgos de colisión. Callahan no era un investigador de fenómenos anómalos. Era un ingeniero de sistemas de control de tráfico aéreo cuya responsabilidad era determinar si un vuelo comercial había estado en peligro y por qué.
+
+Callahan tomó los datos de radar grabados durante el incidente y llevó las cintas al centro de entrenamiento de la FAA en Washington D.C. Allí, usando el simulador de tráfico aéreo, reconstruyó el evento con los datos reales. Lo que el simulador mostró —según la declaración pública de Callahan, el narrador no está citando un documento de la FAA sino el testimonio del funcionario— fue un objeto no identificado manteniendo posición relativa con el JAL 1628 durante aproximadamente cuarenta y ocho minutos, ejecutando los mismos cambios de altitud que el 747 y manteniendo una separación que ningún piloto humano habría podido sostener manualmente durante tanto tiempo sin error.
+
+Callahan declaró posteriormente que la CIA se interesó en el caso, que los datos fueron clasificados durante años y que él mismo fue instruido para no difundir la información. El narrador debe tratar esta afirmación con la misma cautela que aplica a todos los testimonios de este libro. Callahan era un funcionario federal de alto nivel —su credibilidad institucional es verificable. Pero la afirmación de clasificación por la CIA proviene exclusivamente de su declaración pública posterior y no está respaldada por un documento de clasificación accesible de forma independiente. El narrador no la descarta. Pero tampoco la trata como hecho establecido.
+
+Japan Airlines relevó temporalmente a Terauchi de sus funciones de vuelo después de que el caso se hiciera público. La aerolínea no podía tener a un capitán que había reportado un objeto de 120 metros siguiendo su avión al mando de vuelos comerciales mientras se investigaba el incidente. La sanción profesional —aunque temporal, Terauchi fue restituido meses después— es un dato relevante para evaluar su credibilidad como testigo. Un piloto que depende de su empleo para vivir no fabrica un relato que sabe que le costará ese empleo temporalmente.
+
+JAL 1628 añade al Capítulo 5 un elemento que Trans-en-Provence y Washington D.C. no contenían por separado: la duración. Trans-en-Provence midió efectos posteriores al evento, pero el evento mismo duró menos de un minuto. Washington D.C. documentó presencia intermitente a lo largo de dos noches, pero los objetos aparecían y desaparecían —nunca permanecieron rastreables de forma continua durante casi una hora. JAL 1628 es el único caso del capítulo —y del libro hasta ahora— donde un objeto no identificado fue rastreado por radar de tierra, confirmado visualmente por tres tripulantes, y mantuvo interacción con una aeronave comercial durante un período que excluye la posibilidad de una ilusión óptica pasajera o un error momentáneo del radar.
+
+Ningún error de radar dura cincuenta minutos. Ninguna ilusión óptica sigue a un avión a través de cambios de altitud.
+
+El Capítulo 5 ha reunido tres casos que miden el fenómeno desde ángulos distintos. Trans-en-Provence midió los efectos físicos que deja en el entorno: marcas en el suelo, daños biológicos, gradiente de energía. Washington D.C. midió su presencia en tiempo real con confirmación radar múltiple y visual. JAL 1628 midió su persistencia: casi una hora de rastreo, tres tripulantes observándolo, dos radares de tierra confirmándolo, y un piloto con 10.000 horas de vuelo que pagó un costo profesional por haberlo reportado.
+
+Ninguno de los tres casos establece qué eran los objetos. Los tres establecen —desde la huella material, desde la detección remota y desde la persistencia prolongada— que el fenómeno es físicamente real. Y esa afirmación, que en el Capítulo 1 era una hipótesis basada en la consistencia de testimonios a lo largo de dos milenios y medio, tiene ahora el respaldo de laboratorios nacionales, sistemas de radar independientes e investigaciones oficiales de aviación civil.
