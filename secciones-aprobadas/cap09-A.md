@@ -9,7 +9,7 @@
 
 Cuando un investigador de accidentes aéreos ha eliminado el fallo mecánico, el error del piloto y las condiciones meteorológicas, y la evidencia que queda apunta a una causa que ninguna de esas categorías puede contener, el investigador no celebra. Escribe en su informe: causa probable, consistente con la evidencia disponible.
 
-Este libro ha completado un proceso equivalente. Dos hipótesis fueron presentadas en su versión más fuerte, contrastadas contra la evidencia específica de la Parte II y descartadas para el núcleo verificable. El error de percepción cayó porque opera en la mente y la mente no deja marcas en el suelo, firmas de radar ni gradientes de clorofila. La tecnología humana secreta cayó porque ningún programa clasificado en la historia acumula 75 años sin filtración, aparece sobre todos los continentes simultáneamente, y se comporta como ninguna doctrina militar justificaría.
+Este libro ha completado un proceso equivalente. Dos hipótesis fueron presentadas en su versión más fuerte, contrastadas contra la evidencia específica de la Parte II y descartadas para el núcleo verificable. El error de percepción cayó porque opera en la mente y la mente no deja marcas en el suelo, firmas de radar ni gradientes de clorofila. La tecnología humana secreta cayó porque ningún programa clasificado conocido acumula 75 años sin filtración, aparece sobre todos los continentes simultáneamente, y se comporta como ninguna doctrina militar justificaría.
 
 Lo que queda es una hipótesis. Y la pregunta que este capítulo responde no es si esa hipótesis es cierta —eso requeriría evidencia que el libro no tiene— sino qué puede afirmarse sobre ella dado que las otras dos no resistieron.
 
