@@ -3,7 +3,7 @@
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~720 palabras
-**Siguiente sección:** Cap07-A — [por definir]
+**Siguiente sección:** Cap06-Nimitz-A — El radar que nadie tomó en serio
 
 ---
 
@@ -33,7 +33,9 @@ Lo que sí permite afirmar —y con un respaldo institucional que ningún capít
 
 La Parte II de este libro documentó lo que los instrumentos midieron y lo que los gobiernos sistematizaron. La evidencia es sólida pero incompleta: establece que el fenómeno es físicamente real, que resiste la investigación sistemática de múltiples estados y que ningún gobierno llegó a explicarlo. Pero la pregunta central —¿qué son estos objetos?— sigue abierta.
 
-La Parte III la aborda por eliminación rigurosa. Capítulo 7: ¿puede ser error de percepción? Capítulo 8: ¿puede ser tecnología humana secreta? Capítulo 9: ¿qué queda cuando se elimina lo que la evidencia permite eliminar?
+Antes de que la Parte III la aborde por eliminación, hay un caso que este libro no puede omitir. No porque cierre la pregunta —no la cierra— sino porque cambió las reglas del debate. El 14 de noviembre de 2004, el sistema de combate más avanzado de la Armada de los Estados Unidos detectó objetos que no pudo clasificar. Pilotos de combate los persiguieron. Un sensor infrarrojo los grabó. Dieciséis años después, el Pentágono autenticó el video. Es el caso Nimitz.
+
+La Parte III aborda la pregunta por eliminación rigurosa. Capítulo 7: ¿puede ser error de percepción? Capítulo 8: ¿puede ser tecnología humana secreta? Capítulo 9: ¿qué queda cuando se elimina lo que la evidencia permite eliminar?
 
 Seis países —Francia, Reino Unido, Brasil, Chile, Argentina, Estados Unidos— tienen en sus archivos oficiales casos de fenómenos aéreos no identificados que sus mejores instrumentos registraron y que sus mejores analistas no pudieron explicar. No es un caso. No es una época. No es un continente. Seis países, seis archivos, el mismo residuo.
 
