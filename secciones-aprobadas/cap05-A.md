@@ -39,7 +39,7 @@ Cuarto: gradiente de daño. Los efectos eran más intensos en el centro del siti
 
 Bounias publicó sus hallazgos en 1990 en el Journal of Scientific Exploration, una revista revisada por pares. La publicación no afirma que el objeto de Trans-en-Provence fuera una nave extraterrestre. Afirma algo más modesto y más sólido: que las plantas en el sitio de aterrizaje sufrieron daños que no pueden ser explicados por ningún fenómeno convencional conocido y que esos daños son consistentes con la exposición a una fuente de energía intensa, localizada y breve.
 
-El informe GEPAN Nº 16, el documento oficial del CNES, resume su conclusión en una frase que el narrador cita en su redacción original:
+El informe GEPAN Nº 16, el documento oficial del CNES, resume su conclusión en una frase que cito en su redacción original:
 
 "L'ensemble des effets observés sur la végétation ne peut être expliqué par des phénomènes conventionnels et suggère l'intervention d'une source d'énergie de nature inconnue."
 
