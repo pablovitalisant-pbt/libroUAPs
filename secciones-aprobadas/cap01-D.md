@@ -15,7 +15,7 @@ La pregunta que esta sección responde es: ¿para qué sirve exactamente lo que 
 
 Para responderla hay que entender cuáles son las dos hipótesis más cómodas para quien prefiere no tomarse el fenómeno en serio.
 
-La primera es que se trata de tecnología humana secreta: programas militares clasificados que producen aeronaves avanzadas, drones, globos de vigilancia o prototipos que los testigos confunden con algo extraordinario. Es una hipótesis razonable para los casos posteriores a la Segunda Guerra Mundial. No funciona para Ezequiel, pero funciona para Nimitz. El Capítulo 8 la examinará con el detalle que merece.
+La primera es que se trata de tecnología humana secreta: programas militares clasificados que producen aeronaves avanzadas, drones, globos de vigilancia o prototipos que los testigos confunden con algo extraordinario. Es una hipótesis razonable para los casos posteriores a la Segunda Guerra Mundial. No funciona para Ezequiel, pero funciona para Nimitz. El Capítulo 9 la examinará con el detalle que merece.
 
 La segunda es que el fenómeno es un producto cultural moderno: la ciencia ficción, la paranoia de la Guerra Fría, los medios masivos y la cultura visual del siglo XX generaron un repertorio de imágenes —platillos volantes, hombrecitos verdes, abducciones— que los testigos proyectan sobre lo que ven, y que los medios amplifican en ciclos de retroalimentación. Según esta hipótesis, los OVNIs no existen. Existe un género narrativo. Y los testigos, sin saberlo, son sus autores.
 
@@ -25,7 +25,7 @@ Si el patrón de descripciones de objetos no identificados en el cielo con carac
 
 La hipótesis del producto cultural moderno requiere modernidad. El patrón documental la precede por milenios. La hipótesis queda refutada.
 
-Esto no es un detalle. Es la primera reducción del espacio de hipótesis que el argumento por eliminación necesita. Si el libro quiere responder la pregunta "¿qué son estos objetos?" descartando sistemáticamente lo que no pueden ser, cada descarte requiere evidencia. La evidencia de este capítulo elimina una de las dos explicaciones más cómodas para quien preferiría no tener que tomarse el fenómeno en serio. Queda la otra —tecnología humana secreta— para el Capítulo 8. Queda la hipótesis psicosocial, que el capítulo anterior evaluó y encontró insuficiente para los casos con mayor densidad de detalle técnico, pero que ninguna persona intelectualmente honesta puede declarar eliminada con solo cinco documentos. Queda, en el extremo del espectro, la hipótesis que este libro examinará en los capítulos finales.
+Esto no es un detalle. Es la primera reducción del espacio de hipótesis que el argumento por eliminación necesita. Si el libro quiere responder la pregunta "¿qué son estos objetos?" descartando sistemáticamente lo que no pueden ser, cada descarte requiere evidencia. La evidencia de este capítulo elimina una de las dos explicaciones más cómodas para quien preferiría no tener que tomarse el fenómeno en serio. Queda la otra —tecnología humana secreta— para el Capítulo 9. Queda la hipótesis psicosocial, que el capítulo anterior evaluó y encontró insuficiente para los casos con mayor densidad de detalle técnico, pero que ninguna persona intelectualmente honesta puede declarar eliminada con solo cinco documentos. Queda, en el extremo del espectro, la hipótesis que este libro examinará en los capítulos finales.
 
 Pero el espacio de hipótesis es más pequeño que cuando empezamos. Y reducirlo es exactamente el trabajo.
 

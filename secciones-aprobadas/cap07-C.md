@@ -1,9 +1,9 @@
-# CAPÍTULO 6 — Sección C
+# CAPÍTULO 7 — Sección C
 ## *Brasil, Chile y Argentina: el modelo de transparencia activa*
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.450 palabras
-**Siguiente sección:** Cap06-D — [por definir]
+**Siguiente sección:** Cap07-D — Lo que los tres modelos establecen
 
 ---
 

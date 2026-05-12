@@ -259,7 +259,7 @@ La pregunta que esta sección responde es: ¿para qué sirve exactamente lo que 
 
 Para responderla hay que entender cuáles son las dos hipótesis más cómodas para quien prefiere no tomarse el fenómeno en serio.
 
-La primera es que se trata de tecnología humana secreta: programas militares clasificados que producen aeronaves avanzadas, drones, globos de vigilancia o prototipos que los testigos confunden con algo extraordinario. Es una hipótesis razonable para los casos posteriores a la Segunda Guerra Mundial. No funciona para Ezequiel, pero funciona para Nimitz. El Capítulo 8 la examinará con el detalle que merece.
+La primera es que se trata de tecnología humana secreta: programas militares clasificados que producen aeronaves avanzadas, drones, globos de vigilancia o prototipos que los testigos confunden con algo extraordinario. Es una hipótesis razonable para los casos posteriores a la Segunda Guerra Mundial. No funciona para Ezequiel, pero funciona para Nimitz. El Capítulo 9 la examinará con el detalle que merece.
 
 La segunda es que el fenómeno es un producto cultural moderno: la ciencia ficción, la paranoia de la Guerra Fría, los medios masivos y la cultura visual del siglo XX generaron un repertorio de imágenes —platillos volantes, hombrecitos verdes, abducciones— que los testigos proyectan sobre lo que ven, y que los medios amplifican en ciclos de retroalimentación. Según esta hipótesis, los OVNIs no existen. Existe un género narrativo. Y los testigos, sin saberlo, son sus autores.
 
@@ -269,7 +269,7 @@ Si el patrón de descripciones de objetos no identificados en el cielo con carac
 
 La hipótesis del producto cultural moderno requiere modernidad. El patrón documental la precede por milenios. La hipótesis queda refutada.
 
-Esto no es un detalle. Es la primera reducción del espacio de hipótesis que el argumento por eliminación necesita. Si el libro quiere responder la pregunta "¿qué son estos objetos?" descartando sistemáticamente lo que no pueden ser, cada descarte requiere evidencia. La evidencia de este capítulo elimina una de las dos explicaciones más cómodas para quien preferiría no tener que tomarse el fenómeno en serio. Queda la otra —tecnología humana secreta— para el Capítulo 8. Queda la hipótesis psicosocial, que el capítulo anterior evaluó y encontró insuficiente para los casos con mayor densidad de detalle técnico, pero que ninguna persona intelectualmente honesta puede declarar eliminada con solo cinco documentos. Queda, en el extremo del espectro, la hipótesis que este libro examinará en los capítulos finales.
+Esto no es un detalle. Es la primera reducción del espacio de hipótesis que el argumento por eliminación necesita. Si el libro quiere responder la pregunta "¿qué son estos objetos?" descartando sistemáticamente lo que no pueden ser, cada descarte requiere evidencia. La evidencia de este capítulo elimina una de las dos explicaciones más cómodas para quien preferiría no tener que tomarse el fenómeno en serio. Queda la otra —tecnología humana secreta— para el Capítulo 9. Queda la hipótesis psicosocial, que el capítulo anterior evaluó y encontró insuficiente para los casos con mayor densidad de detalle técnico, pero que ninguna persona intelectualmente honesta puede declarar eliminada con solo cinco documentos. Queda, en el extremo del espectro, la hipótesis que este libro examinará en los capítulos finales.
 
 Pero el espacio de hipótesis es más pequeño que cuando empezamos. Y reducirlo es exactamente el trabajo.
 
@@ -1081,7 +1081,7 @@ La escalada no es casual. Es el argumento por eliminación construyendo su base.
 
 Lo que el Capítulo 5 no permite afirmar es qué son esos objetos. Tampoco permite afirmar que los tres casos describen el mismo fenómeno —solo que comparten un núcleo de características que los instrumentos registraron y las instituciones documentaron. Y no permite afirmar que el fenómeno tenga origen no humano. Esa conclusión, si la evidencia la autoriza, pertenece a la Parte III.
 
-Pero los Capítulos 4 y 5 documentaron casos individuales. El Capítulo 6 cambia de escala: trata lo que admitieron los gobiernos cuando sistematizaron la investigación —no un caso, sino un programa. El GEIPAN francés. Los archivos desclasificados del Reino Unido. Los programas de Brasil, Chile y Argentina. Si los casos individuales son inexplicables, ¿qué hicieron los estados cuando investigaron el fenómeno de forma sistemática?
+Pero los Capítulos 4 y 5 documentaron casos individuales. El Capítulo 7 cambia de escala: trata lo que admitieron los gobiernos cuando sistematizaron la investigación —no un caso, sino un programa. El GEIPAN francés. Los archivos desclasificados del Reino Unido. Los programas de Brasil, Chile y Argentina. Si los casos individuales son inexplicables, ¿qué hicieron los estados cuando investigaron el fenómeno de forma sistemática?
 
 En 1883, José Bonilla fotografió algo sobre Zacatecas y no pudo identificarlo. En 1952, tres radares en Washington D.C. pintaron lo mismo. En 1981, el CNES y el INRA midieron sus efectos en el suelo de una terraza francesa. En 1986, la FAA reconstruyó su trayectoria durante cuarenta y ocho minutos. Ciento tres años de instrumentos cada vez más precisos. Ninguna explicación. El fenómeno no se volvió más explicable a medida que la tecnología mejoró. Se volvió más documentado.
 
@@ -1090,11 +1090,163 @@ En 1883, José Bonilla fotografió algo sobre Zacatecas y no pudo identificarlo.
 <!-- cap06-A.md -->
 
 # CAPÍTULO 6 — Sección A
+## *El radar que nadie tomó en serio*
+
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~500 palabras
+**Siguiente sección:** Cap06-B — David Fravor
+
+---
+
+Kevin Day llevaba días viendo cosas que no existían.
+
+Esa era, al menos, la interpretación de la cadena de mando. Day era Petty Officer en el USS Princeton, el crucero de misiles guiados CG-47 equipado con el sistema de combate Aegis, encargado del control de tráfico aéreo y la defensa antimisiles del grupo de ataque del USS Nimitz. Su puesto era la sala de combate del Princeton, frente a las pantallas del radar AN/SPY-1 —uno de los sistemas de detección más avanzados del arsenal naval de los Estados Unidos, diseñado para rastrear misiles balísticos entrantes, no para registrar fenómenos atmosféricos. Day era un operador experimentado. Su trabajo consistía en distinguir objetos reales de falsos ecos. Las consecuencias de equivocarse —una interceptación no autorizada, una colisión en el aire, un misil que no se detecta a tiempo— eran la razón por la que existía su puesto.
+
+Durante los días previos al 14 de noviembre de 2004, el SPY-1 venía registrando objetos que aparecían y desaparecían de las pantallas a intervalos regulares. Los ecos no se comportaban como aeronaves. Aparecían a altitudes de hasta 28.000 metros —muy por encima del techo operativo de cualquier avión conocido— y descendían a nivel del mar en intervalos que, según Day declaró posteriormente, el sistema estimaba en menos de un segundo. Los objetos no estaban en los planes de vuelo. No respondían a las llamadas de radio. No dejaban estela de condensación ni firma térmica detectable. Eran puntos en una pantalla que el sistema de armas más sofisticado de la Armada no podía clasificar.
+
+Day reportó los contactos. Sus superiores los atribuyeron a fallos de calibración. Los técnicos revisaron el sistema. El radar estaba funcionando dentro de parámetros. Los objetos siguieron apareciendo. Day siguió reportándolos. La cadena de mando siguió archivando sus reportes como anomalías instrumentales. Según Day declaró en entrevistas posteriores, la cantidad de objetos rastreados durante esos días superaba la decena, y el patrón de aparición y desaparición era lo suficientemente regular como para que los operadores del Princeton pudieran anticiparlo.
+
+El patrón se repitió durante días. Los operadores del Princeton empezaron a esperar los objetos —aparecían en las mismas franjas horarias, en las mismas altitudes imposibles, con la misma secuencia de descenso abrupto y desaparición. La frustración de Day no era que el radar viera cosas. Era que el radar veía cosas que ningún procedimiento operativo contemplaba, y que la institución para la que trabajaba prefería la explicación del error técnico a la posibilidad de que el contacto fuera real. Un sistema diseñado para detectar amenazas existenciales a un grupo de ataque estaba registrando presencias no identificadas en el espacio aéreo de entrenamiento, y la respuesta institucional era asumir que el sistema estaba equivocado.
+
+El 14 de noviembre, Day recibió una indicación que no podía ser error de calibración. Un objeto estaba en el CAP point —el punto de combate aéreo programado para los ejercicios de ese día— antes de que los cazas despegaran. Algo estaba donde se suponía que debían estar los F/A-18F, esperando.
+
+Day vectorizó a los cazas hacia el contacto. Lo que ocurrió después no lo vio en sus pantallas. Lo vio David Fravor.
+
+---
+
+# CAPÍTULO 6 — Sección B
+## *David Fravor*
+
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~400 palabras
+**Siguiente sección:** Cap06-C — El encuentro
+
+---
+
+El comandante David Fravor llevaba dieciocho años volando para la Armada de los Estados Unidos el 14 de noviembre de 2004. Piloto de F/A-18F Super Hornet, comandante del escuadrón VFA-41 Black Aces, graduado de la Fighter Weapons School —lo que la Armada llama TOPGUN—, con despliegues de combate en Irak y Bosnia en su historial. No necesito añadir nada a eso. Dieciocho años de vuelo en combate y el mando de un escuadrón de cazas de ataque son hechos de carrera. No los convierto en argumento de credibilidad porque no hace falta: la Armada ya hizo esa evaluación cuando le dio el mando.
+
+Fravor había aterrizado en el Nimitz esa mañana después de un vuelo de entrenamiento. Estaba en la sala de pilotos cuando recibió la orden de cambiar de misión. El Princeton tenía un contacto no identificado y necesitaba interceptores en el aire. No era un simulacro. El operador de radar —Day— llevaba días reportando objetos y esta vez el contacto estaba exactamente donde los F/A-18F debían realizar sus ejercicios programados.
+
+Fravor y su oficial de sistemas de armas, el teniente comandante Jim Slaight, se dirigieron a su F/A-18F. Un segundo Super Hornet, pilotado por la teniente comandante Alex Dietrich, los seguiría. Los dos cazas despegaron del Nimitz con la misión de identificar lo que el SPY-1 estaba pintando.
+
+Lo que Fravor sabía al despegar era mínimo: un contacto no identificado, a una altitud y velocidad que no correspondían a nada en los registros de tráfico, en una zona de entrenamiento militar restringida. Lo que Fravor no sabía —porque ningún piloto de combate espera encontrarse con algo que desafíe su marco de referencia— era que en los minutos siguientes iba a ver un objeto que dieciséis años después describiría bajo juramento ante el Congreso de los Estados Unidos con las mismas palabras que usó al aterrizar: no tengo idea de qué era eso.
+
+---
+
+# CAPÍTULO 6 — Sección C
+## *El encuentro*
+
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~1.000 palabras
+**Siguiente sección:** Cap06-D — Lo que Underwood grabó
+
+---
+
+El F/A-18F de Fravor y Slaight llegó al CAP point con el segundo Super Hornet de Dietrich a poca distancia. El día era claro. El Pacífico, plano y azul oscuro, se extendía en todas direcciones sin una sola referencia visual. Las condiciones de vuelo eran perfectas.
+
+El controlador del Princeton los guió hacia el contacto. La primera indicación fue que el objeto no estaba donde el radar lo había situado inicialmente —había descendido. El SPY-1 lo tenía ahora a baja altitud, cerca de la superficie. Fravor dirigió el F/A-18F hacia las coordenadas y empezó a descender.
+
+Lo que vio desde la cabina fue una perturbación en el agua. Una zona circular de aproximadamente el tamaño de un Boeing 737 donde la superficie del océano estaba agitada, como si algo —un objeto sumergido o una corriente de aire dirigida hacia abajo— estuviera removiendo el agua desde arriba. La perturbación no se movía como una ola. Era una efervescencia localizada, precisa, con bordes definidos. Sobre ella, a unos quince metros de altitud, había un objeto.
+
+El objeto era blanco, liso, de forma cilíndrica alargada —un Tic Tac, en las palabras que Fravor usaría después y que el mundo repetiría durante años. Aproximadamente cuarenta pies de largo, sin alas, sin rotores, sin superficies de control visibles, sin toberas de escape, sin marcas. No emitía humo. No dejaba estela. No tenía parabrisas ni cabina. Era una forma blanca suspendida sobre el agua, moviéndose erráticamente sobre la zona de perturbación, como si estuviera inspeccionando lo que ocurría debajo.
+
+Fravor inició una espiral de aproximación. El F/A-18F es un caza de cuarta generación, diseñado para combate aéreo y ataque a tierra, con capacidad de maniobra que pocos aviones igualan. Fravor estaba volando el mejor caza de superioridad aérea que la Armada tenía en servicio activo, y llevaba dieciocho años haciéndolo. Inició el descenso hacia el objeto con la intención de identificarlo visualmente.
+
+El objeto lo detectó.
+
+No uso esa palabra a la ligera. Describo lo que Fravor declaró: el Tic Tac interrumpió su movimiento errático sobre el agua y comenzó a ascender hacia el F/A-18F. No se desvió. No huyó. Ascendió hacia el caza en una trayectoria que Fravor describió como deliberada —el objeto estaba respondiendo a la presencia del interceptor y se dirigía hacia él.
+
+Fravor intentó cortarle el paso. Dirigió el F/A-18F directamente hacia el objeto para forzar un encuentro frontal. El Tic Tac se apartó en el último momento y aceleró. No giró como un avión —no describió un arco de viraje, no inclinó las alas porque no tenía alas. Simplemente cambió de dirección y desapareció del campo visual de Fravor en segundos.
+
+Slaight, en el asiento trasero, perdió el contacto visual al mismo tiempo. Dietrich, en el segundo F/A-18F, vio desaparecer al objeto desde su posición. Los tres pilotos —dos cazas, tres pares de ojos entrenados, dieciocho años de experiencia en el líder de la formación— acababan de perder un objeto que ninguno de ellos pudo identificar, que ninguno de sus sistemas pudo clasificar, y que acababa de ejecutar una maniobra de evasión sin equivalente en ningún manual de combate aéreo.
+
+El Princeton llamó por radio. Tenían un nuevo contacto. No era el mismo objeto —o tal vez sí. El radar mostraba algo en el CAP point original, a decenas de millas de donde el Tic Tac acababa de desaparecer. Exactamente en el punto donde los F/A-18F debían haber iniciado sus ejercicios. El objeto —o lo que fuera— se había trasladado allí en un intervalo que Fravor, en sus declaraciones posteriores, describió como incompatible con cualquier velocidad de aeronave conocida.
+
+Los dos F/A-18F se dirigieron al CAP point. Cuando llegaron, el radar les indicó que el objeto ya no estaba allí. El Princeton había perdido el contacto. Fravor y Dietrich sobrevolaron la zona durante varios minutos. Nada.
+
+Regresaron al Nimitz sin el objeto. Sin explicación. Sin categoría para lo que acababan de ver. En cubierta, Fravor se encontró con Chad Underwood, otro piloto de los Black Aces. Underwood acababa de escuchar las comunicaciones de la intercepción por la radio del escuadrón. Fravor le dijo lo que había visto. Underwood le dijo que quería intentar encontrarlo.
+
+Horas después, Underwood despegó en otro F/A-18F con una cápsula FLIR acoplada al fuselaje —un sensor infrarrojo de alta resolución diseñado para rastrear aeronaves enemigas a larga distancia. Lo que Underwood grabó es el video FLIR1. Lo que Fravor vio y lo que Underwood grabó son dos eventos distintos, con dos tipos de evidencia distintos, separados por horas. El libro mantiene esa distinción porque la evidencia la exige.
+
+---
+
+<!-- cap06-B.md -->
+
+# CAPÍTULO 6 — Sección D
+## *Lo que Underwood grabó*
+
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~500 palabras
+**Siguiente sección:** Cap06-E — El proceso de eliminación
+
+---
+
+Chad Underwood no vio lo que Fravor vio. Underwood grabó algo distinto, horas después, con un sensor que no es un ojo humano. Las dos cosas no son intercambiables. La distinción importa y este libro la mantiene.
+
+Underwood era piloto de los Black Aces, compañero de escuadrón de Fravor. El 14 de noviembre, después del encuentro de Fravor, Underwood despegó en un F/A-18F equipado con una cápsula AN/ASQ-228 ATFLIR —un sensor electro-óptico e infrarrojo diseñado para detectar, identificar y rastrear aeronaves a larga distancia en condiciones de visibilidad reducida. El ATFLIR ve en el espectro infrarrojo, lo que significa que detecta diferencias de temperatura, no formas visibles en el sentido convencional. Lo que el video muestra no es una fotografía del objeto. Es una representación térmica de algo que emitía una firma de calor distinta a la del entorno.
+
+Underwood localizó un objeto que el radar del Princeton confirmó como contacto no identificado. Activó el ATFLIR y lo fijó en el blanco. El video FLIR1 —autenticado por el Departamento de Defensa en el comunicado del 27 de abril de 2020 como material genuino capturado por sensores de la Armada— muestra una forma ovalada blanca contra un fondo gris, moviéndose erráticamente dentro del encuadre del sensor. El objeto cambia de posición y velocidad sin transición visible. En un momento, acelera hacia la izquierda y sale del encuadre del ATFLIR. El sensor tarda en re-adquirirlo.
+
+Lo que el video no muestra: velocidad precisa, altitud exacta, tamaño medido, distancia al sensor. El ATFLIR no es un telémetro. No mide dimensiones físicas. Lo que Underwood vio en su pantalla fue una firma térmica que se comportaba de forma anómala. Lo que el Departamento de Defensa autenticó fue que el video es real —no que el objeto sea de origen no humano, no que desafíe las leyes de la física, no que represente una amenaza. La autenticación del Pentágono es un hecho documentado. La interpretación de lo que el video contiene no lo es.
+
+Según declaró Underwood a New York Magazine en 2019 —fuente secundaria, posterior al evento, que debe ser evaluada con la cautela que corresponde a un testimonio no prestado bajo juramento ni registrado en un documento oficial contemporáneo—, la firma térmica del objeto no correspondía a la de ningún sistema de propulsión conocido. No había una fuente de calor concentrada en toberas de escape. La firma era uniforme, distribuida a lo largo de la forma del objeto, sin el gradiente de temperatura que produce un motor a reacción.
+
+Esa observación es el testimonio de Underwood, no una medición instrumental independiente verificada. El FLIR1 registra una firma térmica. No registra la causa de esa firma. La distancia entre "el sensor detectó calor" y "el calor provenía de un sistema de propulsión desconocido" es una inferencia. El libro la registra como lo que es: el testimonio de un piloto entrenado interpretando los datos de su sensor.
+
+---
+
+# CAPÍTULO 6 — Sección E
+## *El proceso de eliminación*
+
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~500 palabras
+**Siguiente sección:** Cap06-F — Lo que el caso representa
+
+---
+
+El libro ha aplicado el mismo método a cada caso que ha examinado: presentar las hipótesis convencionales disponibles y contrastarlas contra la evidencia específica. El incidente Nimitz no es una excepción. Lo que sigue no prueba qué era el objeto. Establece qué explicaciones no cierran satisfactoriamente para la evidencia documentada.
+
+**Error de percepción.** Fravor, Slaight y Dietrich vieron el objeto simultáneamente desde dos cabinas distintas. El radar AN/SPY-1 del Princeton confirmó el contacto en posición coincidente con lo que los pilotos reportaban visualmente. El FLIR1 de Underwood registró una firma térmica horas después en el mismo sector. La coincidencia entre observación visual de tres pilotos entrenados, radar de combate y sensor infrarrojo hace que la hipótesis de error de percepción individual sea inverosímil para este caso. Tres personas no sufren la misma alucinación al mismo tiempo mientras dos sistemas de detección independientes registran el mismo contacto.
+
+**Dron.** En noviembre de 2004, el desarrollo de drones con capacidad de vuelo autónomo estaba en sus primeras fases. El MQ-1 Predator operaba a altitudes medias y velocidades subsónicas —no descendía de 28.000 metros a nivel del mar en segundos, no carecía de superficies de control visibles, no ejecutaba maniobras sin equivalentes aerodinámicos conocidos. Ningún dron operacional en 2004, de ningún país, tenía la combinación de techo operativo, velocidad de descenso y maniobrabilidad que los pilotos describieron y el radar registró. Extrapolar capacidades futuras a 2004 no es evaluación de hipótesis: es especulación.
+
+**Avión experimental.** Ningún programa de desarrollo aeronáutico conocido —estadounidense o extranjero— en 2004 producía un objeto con las características documentadas en el incidente Nimitz. Un prototipo con capacidad de descenso desde 28.000 metros hasta nivel del mar y maniobras sin superficies de control habría representado una revolución en ingeniería aeronáutica sin precedentes. Ningún programa de esa envergadura ha sido revelado, filtrado ni admitido en las dos décadas transcurridas desde el incidente. El argumento de que podría existir en secreto no es un argumento contra la eliminación —es el argumento de tecnología humana secreta que el Capítulo 9 evaluó para el núcleo verificable y no pudo sostener.
+
+**Globo.** Un globo aerostático no maniobra activamente hacia un F/A-18F que se aproxima. No acelera lateralmente fuera del encuadre de un sensor infrarrojo. No aparece en el CAP point antes de que los cazas despeguen y desaparece al ser sobrevolado. La hipótesis es incompatible con el comportamiento documentado.
+
+Ninguna de las cuatro hipótesis cierra. Como en los casos anteriores, el argumento no prueba qué era el objeto. Reduce el espacio de lo que no pudo haber sido. Y ese espacio reducido es lo que el caso Nimitz hereda del método que el libro ha aplicado durante diez capítulos.
+
+---
+
+# CAPÍTULO 6 — Sección F
+## *Lo que el caso representa*
+
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~300 palabras
+**Siguiente sección:** Cap07-A — Francia y el GEIPAN: cuando el estado investiga
+
+---
+
+El incidente Nimitz no establece qué era el objeto que Fravor vio, que Day rastreó y que Underwood grabó. No es esa la contribución del caso al argumento del libro. Su contribución es otra: es el primer caso plenamente documentado en la historia en que el gobierno de los Estados Unidos autenticó material audiovisual de un encuentro con un fenómeno aéreo no identificado, emitido por sensores militares en condiciones operativas reales, y reconoció públicamente carecer de explicación para lo que las imágenes contienen.
+
+Eso no convierte al objeto en algo extraordinario. Convierte al caso en algo documentalmente irreversible.
+
+Antes del 27 de abril de 2020, un escéptico podía argumentar que los videos del Pentágono eran falsificaciones, que los pilotos exageraban, que el radar había fallado. El comunicado del Departamento de Defensa eliminó esas líneas de defensa. El video es auténtico. Los pilotos son reales. El radar pertenecía a un sistema de combate desplegado en operaciones activas. La Armada investigó el incidente y no encontró explicación convencional. El gobierno no dijo qué era el objeto. Dijo que existía —en el sentido de que el video es genuino, el encuentro ocurrió, y la investigación no lo resolvió.
+
+Ese es el hecho documental. Todo lo demás —las declaraciones de Fravor ante el Congreso, el testimonio de Day sobre lo que el radar mostró, las declaraciones posteriores de Underwood— es evidencia testimonial de testigos con credibilidad institucional verificable. No es prueba del origen del objeto. Es prueba de que el sistema que debía identificarlo no pudo.
+
+El caso Nimitz no cierra el argumento del libro. Lo deja exactamente donde debe estar: abierto. Lo abre hacia la pregunta que la Parte III examina: si el gobierno más poderoso del mundo autenticó el encuentro y no pudo explicarlo, ¿qué hipótesis quedan en pie cuando se aplica el proceso de eliminación a la evidencia disponible?
+
+---
+
+<!-- cap07-A.md -->
+
+# CAPÍTULO 7 — Sección A
 ## *Francia y el GEIPAN: cuando el estado investiga*
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.400 palabras
-**Siguiente sección:** Cap06-B — Reino Unido: los archivos desclasificados
+**Siguiente sección:** Cap07-B — Reino Unido: los archivos desclasificados
 
 ---
 
@@ -1142,14 +1294,14 @@ El Reino Unido tomó un camino distinto. No creó un organismo permanente como F
 
 ---
 
-<!-- cap06-B.md -->
+<!-- cap07-B.md -->
 
-# CAPÍTULO 6 — Sección B
+# CAPÍTULO 7 — Sección B
 ## *Reino Unido: los archivos desclasificados*
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.350 palabras
-**Siguiente sección:** Cap06-C — Brasil, Chile, Argentina
+**Siguiente sección:** Cap07-C — Brasil, Chile y Argentina: el modelo de transparencia activa
 
 ---
 
@@ -1175,20 +1327,20 @@ Lo que los archivos británicos comparten con los del GEIPAN no es una conclusi�
 
 El contraste con Francia es deliberado y debe hacerse explícito. Francia creó proactivamente un organismo permanente dentro de su agencia espacial, con metodología científica, que publicó sus archivos voluntariamente en 2007. El Reino Unido acumuló archivos sin organismo permanente y los liberó reactivamente bajo presión legal entre 2008 y 2013. Dos caminos institucionales completamente distintos conducen a un resultado similar: documentación pública que muestra que el fenómeno fue investigado, que algunos casos son inexplicables, y que ningún gobierno llegó a una conclusión oficial sobre el origen. La diferencia está en el camino —proactivo versus reactivo— y el camino importa. Refleja actitudes institucionales distintas hacia la transparencia y hacia si el fenómeno merece el estatus de objeto de investigación permanente.
 
-Lo que el Reino Unido añade al argumento del Capítulo 6 no es un caso nuevo —Rendlesham ya fue presentado— sino la evidencia de que un segundo Estado, con una tradición institucional completamente distinta a la francesa y sin un organismo permanente como el GEIPAN, llegó al mismo punto: décadas de documentación, investigación inconsistente pero no inexistente, y un residuo de casos sin explicación que los archivos oficiales preservan sin resolver.
+Lo que el Reino Unido añade al argumento del Capítulo 7 no es un caso nuevo —Rendlesham ya fue presentado— sino la evidencia de que un segundo Estado, con una tradición institucional completamente distinta a la francesa y sin un organismo permanente como el GEIPAN, llegó al mismo punto: décadas de documentación, investigación inconsistente pero no inexistente, y un residuo de casos sin explicación que los archivos oficiales preservan sin resolver.
 
 Brasil, Chile y Argentina tomaron un tercer camino. No crearon agencias espaciales con mandato científico como Francia, ni acumularon archivos en silencio como el Reino Unido. Desclasificaron activamente documentos como política de Estado y crearon organismos específicamente dedicados a investigar y publicar. El resultado es el archivo gubernamental más transparente del mundo sobre el fenómeno.
 
 ---
 
-<!-- cap06-C.md -->
+<!-- cap07-C.md -->
 
-# CAPÍTULO 6 — Sección C
+# CAPÍTULO 7 — Sección C
 ## *Brasil, Chile y Argentina: el modelo de transparencia activa*
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.450 palabras
-**Siguiente sección:** Cap06-D — [por definir]
+**Siguiente sección:** Cap07-D — Lo que los tres modelos establecen
 
 ---
 
@@ -1222,20 +1374,20 @@ Lo que los tres modelos comparten no es una conclusión sobre el origen del fen�
 
 ---
 
-<!-- cap06-D.md -->
+<!-- cap07-D.md -->
 
-# CAPÍTULO 6 — Sección D
+# CAPÍTULO 7 — Sección D
 ## *Lo que los tres modelos establecen*
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~720 palabras
-**Siguiente sección:** Cap07-A — [por definir]
+**Siguiente sección:** Cap08-A — Lo que la psicología cognitiva explica
 
 ---
 
 ¿Qué ocurre cuando los estados dejan de investigar casos individuales y establecen programas sistemáticos de investigación del fenómeno?
 
-El Capítulo 6 ha documentado tres modelos institucionales que responden esa pregunta desde tres trayectorias completamente distintas. Y la respuesta es consistente.
+El Capítulo 7 ha documentado tres modelos institucionales que responden esa pregunta desde tres trayectorias completamente distintas. Y la respuesta es consistente.
 
 Francia creó un organismo permanente dentro de su agencia espacial —el GEIPAN— con metodología científica, clasificación verificable y archivos públicos desde 2007. El resultado: aproximadamente el 3% de los casos llegan a Clase D —sin explicación posible con la información disponible— y ese porcentaje se mantiene estable década tras década.
 
@@ -1251,15 +1403,17 @@ Esa consistencia es el dato más importante del capítulo. Y establece algo cual
 
 Los Capítulos 4 y 5 documentaron casos individuales —lo que un piloto vio en Teherán, lo que un radar registró en Washington, lo que un laboratorio midió en Trans-en-Provence. Cada caso era un dato. Cada dato sumaba peso al argumento. Pero un dato individual —por sólido que sea— puede ser una anomalía, una coincidencia, una excepción.
 
-El Capítulo 6 documenta patrones institucionales —lo que múltiples estados encontraron cuando sistematizaron la recolección de datos durante décadas. Y un patrón institucional no puede ser descartado con las mismas herramientas que un dato individual. No es una coincidencia que seis países en tres continentes, con metodologías distintas y sin coordinación entre sí, hayan llegado al mismo residuo. Es una tendencia. Y las tendencias que se replican a través de fronteras, idiomas y décadas exigen una explicación que las abarque a todas.
+El Capítulo 7 documenta patrones institucionales —lo que múltiples estados encontraron cuando sistematizaron la recolección de datos durante décadas. Y un patrón institucional no puede ser descartado con las mismas herramientas que un dato individual. No es una coincidencia que seis países en tres continentes, con metodologías distintas y sin coordinación entre sí, hayan llegado al mismo residuo. Es una tendencia. Y las tendencias que se replican a través de fronteras, idiomas y décadas exigen una explicación que las abarque a todas.
 
-El Capítulo 6 no permite afirmar cuál es esa explicación. No permite afirmar que el residuo inexplicable tenga origen no humano, ni que todos los casos sin explicación correspondan al mismo fenómeno, ni que alguno de los seis países haya admitido saber más de lo que ha publicado.
+El Capítulo 7 no permite afirmar cuál es esa explicación. No permite afirmar que el residuo inexplicable tenga origen no humano, ni que todos los casos sin explicación correspondan al mismo fenómeno, ni que alguno de los seis países haya admitido saber más de lo que ha publicado.
 
 Lo que sí permite afirmar —y con un respaldo institucional que ningún capítulo anterior había reunido— es que el fenómeno no es un subproducto de la credulidad, la desinformación o el error de medición. Si lo fuera, los archivos de seis países no contendrían el mismo residuo inexplicable después de décadas de investigación. Lo contienen. Y ese residuo es el punto de partida de la Parte III.
 
 La Parte II de este libro documentó lo que los instrumentos midieron y lo que los gobiernos sistematizaron. La evidencia es sólida pero incompleta: establece que el fenómeno es físicamente real, que resiste la investigación sistemática de múltiples estados y que ningún gobierno llegó a explicarlo. Pero la pregunta central —¿qué son estos objetos?— sigue abierta.
 
-La Parte III la aborda por eliminación rigurosa. Capítulo 7: ¿puede ser error de percepción? Capítulo 8: ¿puede ser tecnología humana secreta? Capítulo 9: ¿qué queda cuando se elimina lo que la evidencia permite eliminar?
+Antes de que la Parte III la aborde por eliminación, hay un caso que este libro no puede omitir. No porque cierre la pregunta —no la cierra— sino porque cambió las reglas del debate. El 14 de noviembre de 2004, el sistema de combate más avanzado de la Armada de los Estados Unidos detectó objetos que no pudo clasificar. Pilotos de combate los persiguieron. Un sensor infrarrojo los grabó. Dieciséis años después, el Pentágono autenticó el video. Es el caso Nimitz.
+
+La Parte III aborda la pregunta por eliminación rigurosa. Capítulo 8: ¿puede ser error de percepción? Capítulo 9: ¿puede ser tecnología humana secreta? Capítulo 10: ¿qué queda cuando se elimina lo que la evidencia permite eliminar?
 
 Seis países —Francia, Reino Unido, Brasil, Chile, Argentina, Estados Unidos— tienen en sus archivos oficiales casos de fenómenos aéreos no identificados que sus mejores instrumentos registraron y que sus mejores analistas no pudieron explicar. No es un caso. No es una época. No es un continente. Seis países, seis archivos, el mismo residuo.
 
@@ -1267,14 +1421,14 @@ Eso no responde qué son los objetos. Pero hace insostenible afirmar que no exis
 
 ---
 
-<!-- cap07-A.md -->
+<!-- cap08-A.md -->
 
-# CAPÍTULO 7 — Sección A
+# CAPÍTULO 8 — Sección A
 ## *Lo que la psicología cognitiva explica*
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.450 palabras
-**Siguiente sección:** Cap07-B — Dónde la hipótesis encuentra sus límites
+**Siguiente sección:** Cap08-B — Dónde la hipótesis encuentra sus límites
 
 ---
 
@@ -1304,14 +1458,14 @@ Eso es lo que la Sección B evalúa.
 
 ---
 
-<!-- cap07-B.md -->
+<!-- cap08-B.md -->
 
-# CAPÍTULO 7 — Sección B
+# CAPÍTULO 8 — Sección B
 ## *Dónde la hipótesis encuentra sus límites*
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.350 palabras
-**Siguiente sección:** Cap08-A — Lo que la historia de la tecnología secreta enseña
+**Siguiente sección:** Cap09-A — Lo que la historia de la tecnología secreta enseña
 
 ---
 
@@ -1359,20 +1513,20 @@ La hipótesis cognitiva es sólida para el corpus general de avistamientos —lo
 
 ---
 
-Lo que el Capítulo 7 establece requiere tres precisiones. La primera: la hipótesis cognitiva explica bien el corpus general de avistamientos —la pareidolia, la contaminación cultural y la parálisis del sueño son mecanismos reales que operan sobre un porcentaje significativo de reportes. El descarte no niega eso. Afirma que el núcleo verificable —el subconjunto con confirmación instrumental independiente y evidencia física medible— no puede explicarse por esos mecanismos, porque todos operan en la mente y la mente no produce marcas en el suelo, firmas de radar ni lecturas de dosímetro. La segunda: eliminar esta hipótesis reduce el espacio de lo posible. Si el fenómeno pudiera explicarse por error de percepción, la investigación terminaría aquí. No puede. La tercera: eliminar la hipótesis cognitiva no equivale a afirmar origen no humano. Solo elimina una explicación. El argumento por eliminación recorre todas las alternativas antes de señalar lo que queda.
+Lo que el Capítulo 8 establece requiere tres precisiones. La primera: la hipótesis cognitiva explica bien el corpus general de avistamientos —la pareidolia, la contaminación cultural y la parálisis del sueño son mecanismos reales que operan sobre un porcentaje significativo de reportes. El descarte no niega eso. Afirma que el núcleo verificable —el subconjunto con confirmación instrumental independiente y evidencia física medible— no puede explicarse por esos mecanismos, porque todos operan en la mente y la mente no produce marcas en el suelo, firmas de radar ni lecturas de dosímetro. La segunda: eliminar esta hipótesis reduce el espacio de lo posible. Si el fenómeno pudiera explicarse por error de percepción, la investigación terminaría aquí. No puede. La tercera: eliminar la hipótesis cognitiva no equivale a afirmar origen no humano. Solo elimina una explicación. El argumento por eliminación recorre todas las alternativas antes de señalar lo que queda.
 
-Lo que queda después del Capítulo 7 es un fenómeno físicamente real que no es error de percepción. Quedan dos hipótesis. La primera —tecnología humana secreta— es la más cómoda para quien acepta la realidad física pero se resiste a una conclusión más radical. El Capítulo 8 la examina con el mismo rigor con el que el Capítulo 7 examinó la hipótesis cognitiva.
+Lo que queda después del Capítulo 8 es un fenómeno físicamente real que no es error de percepción. Quedan dos hipótesis. La primera —tecnología humana secreta— es la más cómoda para quien acepta la realidad física pero se resiste a una conclusión más radical. El Capítulo 9 la examina con el mismo rigor con el que el Capítulo 8 examinó la hipótesis cognitiva.
 
 ---
 
-<!-- cap08-A.md -->
+<!-- cap09-A.md -->
 
-# CAPÍTULO 8 — Sección A
+# CAPÍTULO 9 — Sección A
 ## *Lo que la historia de la tecnología secreta enseña*
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.450 palabras
-**Siguiente sección:** Cap08-B — Dónde la hipótesis encuentra sus límites
+**Siguiente sección:** Cap09-B — Dónde la hipótesis encuentra sus límites
 
 ---
 
@@ -1384,7 +1538,7 @@ Ese dato —documentado, verificable, incontrovertido— es el punto de partida 
 
 La hipótesis de tecnología humana secreta sostiene que los objetos documentados en la Parte II son aeronaves o dispositivos desarrollados por Estados con capacidades militares avanzadas —principalmente Estados Unidos, pero también Rusia, China o coaliciones— cuyo nivel de desarrollo supera significativamente lo que el público conoce. No se trata de que los testigos estén equivocados. Se trata de que están viendo tecnología real —tan real como el U-2— cuyo origen es secreto.
 
-Esta hipótesis es la más difícil de descartar de todas las disponibles en la Parte III. Y es la más difícil por una razón específica: opera en el mismo dominio que la evidencia. La hipótesis cognitiva del Capítulo 7 operaba en la mente del testigo —la pareidolia no produce marcas físicas, la contaminación cultural no produce firmas de radar. Pero la hipótesis de tecnología humana secreta postula objetos físicos reales, producidos por ingeniería humana, que volaron, aterrizaron y dejaron efectos medibles. Una aeronave secreta avanzada puede producir una firma de radar. Puede dejar marcas en el suelo al aterrizar. Puede emitir radiación detectable por un dosímetro. La hipótesis es compatible con la evidencia física que la Parte II documentó. Eso la hace cualitativamente más sólida que la hipótesis cognitiva. Y eso la hace más difícil de eliminar.
+Esta hipótesis es la más difícil de descartar de todas las disponibles en la Parte III. Y es la más difícil por una razón específica: opera en el mismo dominio que la evidencia. La hipótesis cognitiva del Capítulo 8 operaba en la mente del testigo —la pareidolia no produce marcas físicas, la contaminación cultural no produce firmas de radar. Pero la hipótesis de tecnología humana secreta postula objetos físicos reales, producidos por ingeniería humana, que volaron, aterrizaron y dejaron efectos medibles. Una aeronave secreta avanzada puede producir una firma de radar. Puede dejar marcas en el suelo al aterrizar. Puede emitir radiación detectable por un dosímetro. La hipótesis es compatible con la evidencia física que la Parte II documentó. Eso la hace cualitativamente más sólida que la hipótesis cognitiva. Y eso la hace más difícil de eliminar.
 
 La historia de la aviación secreta justifica tomar esta hipótesis en serio. No como especulación. Como lección de lo que ha ocurrido antes.
 
@@ -1412,14 +1566,14 @@ La Sección B examina esos tres problemas.
 
 ---
 
-<!-- cap08-B.md -->
+<!-- cap09-B.md -->
 
-# CAPÍTULO 8 — Sección B
+# CAPÍTULO 9 — Sección B
 ## *Dónde la hipótesis encuentra sus límites*
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.400 palabras
-**Siguiente sección:** Cap09-A — La hipótesis que resiste
+**Siguiente sección:** Cap10-A — La hipótesis que resiste
 
 ---
 
@@ -1443,7 +1597,7 @@ El tercer problema es la escala geográfica y temporal. La hipótesis requiere q
 
 Un despliegue de esa escala requiere o bien que un único Estado posea capacidad de proyección global sobre territorio propio y aliado y adversario, o bien que múltiples Estados hayan desarrollado independientemente la misma tecnología revolucionaria sin que ninguno la haya declarado jamás como ventaja estratégica. La primera opción implica que Estados Unidos —o quien sea el Estado fabricante— ha estado realizando operaciones encubiertas sobre bases de sus propios aliados de la OTAN sin que ningún aliado lo haya detectado en 70 años. La segunda implica que varios países han alcanzado independientemente un nivel tecnológico equivalente y ninguno lo ha usado jamás en una guerra, una demostración de fuerza o una negociación diplomática.
 
-Hay una tercera opción: los objetos no fueron desplegados —fueron encontrados. Es decir, no son tecnología secreta en el sentido de fabricada en secreto; son tecnología recuperada, estudiada y eventualmente reproducida. Esta variante —que circula ampliamente en la literatura sobre el fenómeno— es técnicamente una hipótesis distinta, porque postula un origen no humano para la tecnología original. El Capítulo 9 la examina. Aquí basta con señalar que si la hipótesis de tecnología humana secreta necesita recurrir a tecnología recuperada para resolver el problema de la escala, está admitiendo que la tecnología original no es humana —y el argumento se traslada al dominio del Capítulo 9.
+Hay una tercera opción: los objetos no fueron desplegados —fueron encontrados. Es decir, no son tecnología secreta en el sentido de fabricada en secreto; son tecnología recuperada, estudiada y eventualmente reproducida. Esta variante —que circula ampliamente en la literatura sobre el fenómeno— es técnicamente una hipótesis distinta, porque postula un origen no humano para la tecnología original. El Capítulo 10 la examina. Aquí basta con señalar que si la hipótesis de tecnología humana secreta necesita recurrir a tecnología recuperada para resolver el problema de la escala, está admitiendo que la tecnología original no es humana —y el argumento se traslada al dominio del Capítulo 9.
 
 La cuarta es el comportamiento observado.
 
@@ -1459,20 +1613,20 @@ La hipótesis queda descartada para el núcleo. No para todos los reportes UAP �
 
 ---
 
-Lo que el Capítulo 8 establece requiere tres precisiones. La primera: una fracción de los reportes UAP corresponde a tecnología humana secreta —la CIA lo documentó para el U-2. El descarte no afirma que toda tecnología clasificada sea un mito. Afirma que el núcleo verificable tiene características que la tecnología humana secreta no puede producir simultáneamente: antigüedad anterior a la aviación, ausencia total de filtración en 75 años, despliegue global sin ventaja estratégica y comportamiento que ninguna doctrina militar justifica. La segunda: dos hipótesis han sido eliminadas. El espacio de explicaciones posibles se ha reducido de "cualquiera" a "lo que queda". La tercera: eliminar dos hipótesis no equivale a afirmar la tercera. El argumento por eliminación no salta de "no es X ni Y" a "por tanto es Z". Recorre todas las alternativas antes de señalar lo que resiste.
+Lo que el Capítulo 9 establece requiere tres precisiones. La primera: una fracción de los reportes UAP corresponde a tecnología humana secreta —la CIA lo documentó para el U-2. El descarte no afirma que toda tecnología clasificada sea un mito. Afirma que el núcleo verificable tiene características que la tecnología humana secreta no puede producir simultáneamente: antigüedad anterior a la aviación, ausencia total de filtración en 75 años, despliegue global sin ventaja estratégica y comportamiento que ninguna doctrina militar justifica. La segunda: dos hipótesis han sido eliminadas. El espacio de explicaciones posibles se ha reducido de "cualquiera" a "lo que queda". La tercera: eliminar dos hipótesis no equivale a afirmar la tercera. El argumento por eliminación no salta de "no es X ni Y" a "por tanto es Z". Recorre todas las alternativas antes de señalar lo que resiste.
 
-El espacio de hipótesis se ha reducido dos veces. El Capítulo 7 eliminó el error de percepción para el núcleo. El Capítulo 8 eliminó la tecnología humana secreta para ese mismo núcleo. Lo que queda no es el vacío —es la posición desde la que el Capítulo 9 puede examinar la única hipótesis que las demás no alcanzaron a descartar.
+El espacio de hipótesis se ha reducido dos veces. El Capítulo 8 eliminó el error de percepción para el núcleo. El Capítulo 9 eliminó la tecnología humana secreta para ese mismo núcleo. Lo que queda no es el vacío —es la posición desde la que el Capítulo 10 puede examinar la única hipótesis que las demás no alcanzaron a descartar.
 
 ---
 
-<!-- cap09-A.md -->
+<!-- cap10-A.md -->
 
-# CAPÍTULO 9 — Sección A
+# CAPÍTULO 10 — Sección A
 ## *La hipótesis que resiste*
 
 **Estado:** BORRADOR — Pendiente de revisión
 **Extensión:** ~1.300 palabras
-**Siguiente sección:** Cap09-B — Lo que la evidencia permite decir
+**Siguiente sección:** Cap10-B — Lo que la evidencia permite decir
 
 ---
 
@@ -1498,17 +1652,17 @@ La tercera es la geografía. Los objetos del núcleo han aparecido sobre Washing
 
 La cuarta es el comportamiento. Los objetos del núcleo no atacan, pero responden. En Teherán, el secundario persiguió al F-4 sin disparar. En Washington D.C., los objetos desaparecieron al aproximarse los cazas y reaparecieron al alejarse —dos noches, el mismo patrón. Sobre Alaska, el objeto siguió al 747 durante 50 minutos copiando sus cambios de altitud. En Rendlesham, la luz se movió entre los árboles y proyectó rayos hacia los observadores. Ninguna doctrina militar explica ese despliegue. Un dron no persigue a un caza que intenta derribarlo sin contraatacar. Un programa clasificado no dedica recursos a escoltar aviones comerciales. La hipótesis de tecnología humana secreta no podía explicar qué objetivo estratégico justificaba ese comportamiento. Para la hipótesis de agencia no humana, el comportamiento no requiere ajustarse a la doctrina militar de ninguna potencia terrestre. Simplemente es lo que la agencia hace.
 
-Ninguna de estas cuatro compatibilidades prueba la hipótesis. La compatibilidad no es validación. Que una hipótesis encaje con la evidencia disponible no significa que sea la explicación correcta —significa que es una explicación posible que la evidencia no contradice. Entre "no contradicha por la evidencia" y "demostrada por la evidencia" hay una diferencia que este libro ha mantenido durante nueve capítulos y que no va a abandonar en el último.
+Ninguna de estas cuatro compatibilidades prueba la hipótesis. La compatibilidad no es validación. Que una hipótesis encaje con la evidencia disponible no significa que sea la explicación correcta —significa que es una explicación posible que la evidencia no contradice. Entre "no contradicha por la evidencia" y "demostrada por la evidencia" hay una diferencia que este libro ha mantenido durante diez capítulos y que no va a abandonar en el último.
 
-Lo que el Capítulo 9 puede afirmar es el resultado de un proceso, no la revelación de una verdad. Dos hipótesis fueron eliminadas para el núcleo verificable mediante el contraste sistemático con la evidencia disponible. Una tercera no pudo ser eliminada. Esa tercera —agencia no humana— queda señalada como la conclusión provisional más honesta que el estado actual de la evidencia permite.
+Lo que el Capítulo 10 puede afirmar es el resultado de un proceso, no la revelación de una verdad. Dos hipótesis fueron eliminadas para el núcleo verificable mediante el contraste sistemático con la evidencia disponible. Una tercera no pudo ser eliminada. Esa tercera —agencia no humana— queda señalada como la conclusión provisional más honesta que el estado actual de la evidencia permite.
 
 Eso no es lo mismo que saber qué son los objetos. No es lo mismo que saber de dónde vienen. No es lo mismo que saber qué quieren —si es que quieren algo. Es saber que ninguna de las explicaciones humanas disponibles resistió el examen, y que la única que resistió apunta en una dirección que la humanidad lleva siglos viendo y que aún no ha podido nombrar.
 
 ---
 
-<!-- cap09-B.md -->
+<!-- cap10-B.md -->
 
-# CAPÍTULO 9 — Sección B
+# CAPÍTULO 10 — Sección B
 ## *Lo que la evidencia permite decir*
 
 **Estado:** BORRADOR — Pendiente de revisión
@@ -1551,9 +1705,23 @@ La pregunta que la evidencia no responde es la más obvia: ¿qué variante de ag
 
 Lo que esta sección puede entregar no es una identidad. Es la coherencia entre la hipótesis que sobrevivió y las características observables del núcleo. Cuatro características. Cuatro compatibilidades. Ninguna es prueba. El conjunto es el producto de un método —la eliminación de lo que no resiste— aplicado con la misma honestidad a la evidencia disponible.
 
+### Lo que el método no puede esquivar
+
+Los Capítulos 7 y 8 aplicaron el proceso de eliminación a dos hipótesis convencionales. El error de percepción fue contrastado contra la evidencia instrumental y no resistió. La tecnología humana secreta fue contrastada contra la historia de los programas clasificados y no resistió. La hipótesis de agencia no humana quedó en pie porque las otras dos cayeron. Pero nunca fue sometida al mismo proceso.
+
+Esa asimetría es un problema. Si el libro aplica un estándar de eliminación a las hipótesis que descarta y se limita a señalar compatibilidades para la hipótesis que retiene, el método no es simétrico. Un método asimétrico no invalida la conclusión —pero le resta el rigor que pretende tener. Lo que sigue aplica a la hipótesis de agencia no humana el mismo proceso que los capítulos anteriores aplicaron a las otras dos. El resultado no es descartarla. Es evaluar cuánto peso puede sostener.
+
+**La consistencia escurridiza.** El fenómeno exhibe un patrón de características que se mantiene reconocible a lo largo de al menos 2.600 años de registro documental: objetos físicos con movimiento controlado que exceden las capacidades técnicas de la época que los registra. Esa consistencia transhistórica es uno de los argumentos más sólidos a favor de una causa subyacente única. Pero hay otra lectura posible, y el método exige presentarla con la misma seriedad. La cognición humana tiene un sesgo documentado hacia la detección de patrones —incluso donde no los hay. Un investigador que busca un fenómeno coherente a lo largo de la historia encontrará los casos que encajan con esa expectativa y descartará los que no como ruido o fraude. La consistencia del núcleo puede reflejar una realidad externa —un fenómeno persistente con propiedades estables— o puede reflejar un sesgo de selección: el investigador retiene lo que encaja con el patrón y descarta lo que lo contradice. Las dos lecturas son compatibles con la evidencia disponible. El método no permite elegir entre ellas.
+
+**La ausencia de contacto verificable.** Si existe una agencia capaz de operar en el espacio aéreo de potencias militares sin ser interceptada, de desactivar sistemas de armamento a distancia y de mantener posición relativa con aeronaves civiles durante casi una hora, la pregunta no es si puede manifestarse. Es por qué no lo ha hecho de forma que produzca evidencia pública irreversible. Tres posibilidades compiten sin que la evidencia permita decidir. La primera: la agencia no tiene interés en el contacto —su presencia es instrumental, no comunicativa. La segunda: el contacto existe pero no es reconocido como tal —opera en canales que nuestras categorías no clasifican como comunicación. La tercera: no existe agencia —atribuimos intención a un fenómeno que no la tiene. Las tres son lógicamente consistentes con la evidencia. Las tres son empíricamente indistinguibles con los datos disponibles. Un método honesto no elige entre ellas por preferencia. Las mantiene abiertas.
+
+**El problema de la agentividad proyectada.** La cognición humana tiene un sesgo de hiperdetección de agencia documentado experimentalmente: tendemos a inferir intención donde hay patrones, incluso cuando son aleatorios. Este sesgo no es un argumento contra la hipótesis de agencia no humana —no implica que los objetos carezcan de intención— pero establece que la evidencia comportamental debe evaluarse con ese sesgo en mente. Cuando Fravor interpreta que el Tic Tac "respondió" a su maniobra, cuando los operadores de Washington D.C. interpretan que los objetos "desaparecieron al aproximarse los cazas", la inferencia de agencia es razonable pero no es neutra. El mismo comportamiento —un objeto que cambia de posición cuando un caza se aproxima— puede interpretarse como respuesta deliberada o como reacción física a una perturbación del entorno que el caza introduce. La evidencia disponible no permite distinguir entre esas dos interpretaciones. Señalo el sesgo. No lo uso para descartar la hipótesis —puede ser correcta aunque el sesgo exista. Lo señalo porque un método que no examina sus propias herramientas de inferencia no es un método.
+
+La hipótesis de agencia no humana es la que mejor se ajusta al corpus verificable con las restricciones que este libro se impuso. Eso no es demostración. Es la conclusión de un proceso honesto con cada alternativa —incluyendo la que retiene. Los tres argumentos anteriores no descartan la hipótesis. La debilitan en el sentido preciso de recordarle al método que "no eliminada" es una posición epistémica modesta. La hipótesis queda en pie después de este examen. Pero queda con su peso real, no con el peso que tendría si solo hubiéramos examinado a las otras.
+
 ---
 
-El argumento ha recorrido nueve capítulos y establece tres cosas. La primera: el fenómeno es físicamente real —no como opinión, como medición. Seis países tienen en sus archivos oficiales evidencia que sus propios analistas no pudieron explicar. La segunda: ninguna de las hipótesis convencionales explica el núcleo verificable. El error de percepción opera en la mente; la tecnología humana secreta tiene fecha de inicio y patrón de filtración. El núcleo no tiene ninguna de esas cosas. La tercera: la hipótesis de agencia no humana es la única que el proceso no eliminó. Compatible con la antigüedad del patrón, con la ausencia de filtración, con la escala del despliegue, con el comportamiento documentado. Sin certeza. Sin revelación. Señalada —no probada.
+El argumento ha recorrido diez capítulos y establece tres cosas. La primera: el fenómeno es físicamente real —no como opinión, como medición. Seis países tienen en sus archivos oficiales evidencia que sus propios analistas no pudieron explicar. La segunda: ninguna de las hipótesis convencionales explica el núcleo verificable. El error de percepción opera en la mente; la tecnología humana secreta tiene fecha de inicio y patrón de filtración. El núcleo no tiene ninguna de esas cosas. La tercera: la hipótesis de agencia no humana es la única que el proceso no eliminó. Compatible con la antigüedad del patrón, con la ausencia de filtración, con la escala del despliegue, con el comportamiento documentado. Sin certeza. Sin revelación. Señalada —no probada.
 
 El fenómeno lleva siendo documentado desde el año 593 antes de Cristo. Los instrumentos mejoraron durante dos mil seiscientos años. La conclusión que la evidencia permite no cambió en todo ese tiempo: hay algo en el cielo que responde a nuestras acciones, que nuestros instrumentos registran como físicamente real, y que no hemos construido ni hemos logrado entender. Eso no es un fracaso de la ciencia. Es la descripción exacta de dónde estamos. El Epílogo no prolonga el argumento. Lo sitúa en el momento en que este libro se publica —2026, el año en que los gobiernos comenzaron a publicar lo que antes archivaban.
 
@@ -1570,7 +1738,7 @@ El fenómeno lleva siendo documentado desde el año 593 antes de Cristo. Los ins
 
 ---
 
-Este libro termina en 2004, con los radares del USS Princeton pintando objetos que aparecían y desaparecían frente a la costa de California, y un piloto de combate que regresó a cubierta sin poder explicar lo que acababa de ver. El argumento por eliminación recorrió nueve capítulos, descartó dos hipótesis y señaló una tercera como la única que el proceso no pudo tirar.
+Este libro termina en 2004, con los radares del USS Princeton pintando objetos que aparecían y desaparecían frente a la costa de California, y un piloto de combate que regresó a cubierta sin poder explicar lo que acababa de ver. El argumento por eliminación recorrió diez capítulos, descartó dos hipótesis y señaló una tercera como la única que el proceso no pudo tirar.
 
 Pero algo cambió entre 2004 y 2026.
 
@@ -1578,13 +1746,13 @@ En diciembre de 2017, el *New York Times* publicó un artículo firmado por tres
 
 En julio de 2023, el mayor David Grusch —oficial de inteligencia de la Fuerza Aérea y de la DIA, con credencial de seguridad de nivel máximo— testificó ante el Congreso de los Estados Unidos bajo juramento. Su declaración fue la más extraordinaria jamás emitida por un funcionario de inteligencia en activo ante un cuerpo legislativo: el gobierno de los Estados Unidos posee materiales y vehículos de origen no humano. No dijo que él los hubiera visto personalmente. Dijo que le fueron referidos por fuentes con acceso directo a los programas de recuperación, y que él investigó esas afirmaciones como parte de sus funciones oficiales. El Inspector General del Departamento de Defensa evaluó la denuncia de Grusch y la clasificó como "creíble y urgente."
 
-Debo tratar esto con la misma precisión que apliqué durante nueve capítulos. "Creíble y urgente" no significa "verificado." Significa que la denuncia merece investigación, no que sus afirmaciones hayan sido comprobadas. Grusch no vio los materiales con sus propios ojos. Las fuentes que se los refirieron no han sido identificadas públicamente. Los programas de recuperación a los que aludió no han sido reconocidos por el Pentágono. La declaración de Grusch no es prueba de nada —es la señalización de que algo, en algún nivel del sistema de clasificación estadounidense, hay evidencia que apunta en la dirección que este libro construyó por eliminación. Señalización, no validación.
+Debo tratar esto con la misma precisión que apliqué durante diez capítulos. "Creíble y urgente" no significa "verificado." Significa que la denuncia merece investigación, no que sus afirmaciones hayan sido comprobadas. Grusch no vio los materiales con sus propios ojos. Las fuentes que se los refirieron no han sido identificadas públicamente. Los programas de recuperación a los que aludió no han sido reconocidos por el Pentágono. La declaración de Grusch no es prueba de nada —es la señalización de que algo, en algún nivel del sistema de clasificación estadounidense, hay evidencia que apunta en la dirección que este libro construyó por eliminación. Señalización, no validación.
 
 El 8 de mayo de 2026, la Casa Blanca publicó el primer lote de evidencia oficial sobre el fenómeno UAP como parte del proceso de desclasificación ordenado por el Congreso. El comunicado era escueto. Los documentos eran técnicos —reportes de avistamientos, análisis de sensores, evaluaciones preliminares. Nada en ellos confirmaba ni desmentía las afirmaciones de Grusch. Pero la palabra que importaba no era "evidencia." Era "primer."
 
 La palabra importante era "primer." El resto aún no tiene fecha.
 
-Lo que ocurrió entre 2017 y 2026 no cambia la conclusión del Libro 1. El argumento por eliminación no depende de Grusch ni del comunicado de la Casa Blanca. Depende de los Capítulos 7, 8 y 9 —del contraste sistemático entre las hipótesis disponibles y la evidencia documentada. La hipótesis de agencia no humana era la única no eliminada mucho antes de que Grusch se sentara frente al Congreso.
+Lo que ocurrió entre 2017 y 2026 no cambia la conclusión del Libro 1. El argumento por eliminación no depende de Grusch ni del comunicado de la Casa Blanca. Depende de los Capítulos 8, 9 y 10 —del contraste sistemático entre las hipótesis disponibles y la evidencia documentada. La hipótesis de agencia no humana era la única no eliminada mucho antes de que Grusch se sentara frente al Congreso.
 
 Pero lo que ocurrió cambia la pregunta. El Libro 1 preguntó: ¿puede descartarse la hipótesis de agencia no humana con la evidencia disponible? La respuesta fue no.
 

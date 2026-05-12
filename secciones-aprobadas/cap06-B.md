@@ -1,34 +1,64 @@
-# CAPÍTULO 6 — Sección B
-## *Reino Unido: los archivos desclasificados*
+# CAPÍTULO 6 — Sección D
+## *Lo que Underwood grabó*
 
-**Estado:** BORRADOR — Pendiente de revisión
-**Extensión:** ~1.350 palabras
-**Siguiente sección:** Cap06-C — Brasil, Chile, Argentina
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~500 palabras
+**Siguiente sección:** Cap06-E — El proceso de eliminación
 
 ---
 
-Francia eligió investigar. El Reino Unido eligió archivar. Y cuando la Freedom of Information Act obligó a abrir los archivos, lo que apareció fue evidencia de que el Ministry of Defence había tomado el fenómeno más en serio de lo que el público supo durante décadas.
+Chad Underwood no vio lo que Fravor vio. Underwood grabó algo distinto, horas después, con un sensor que no es un ojo humano. Las dos cosas no son intercambiables. La distinción importa y este libro la mantiene.
 
-El Reino Unido no creó un organismo permanente equivalente al GEIPAN. No estableció un comité científico con acceso a laboratorios. No publicó sus archivos voluntariamente. Lo que hizo fue acumular reportes de avistamientos durante medio siglo —de pilotos militares, de policías, de controladores aéreos, de ciudadanos—, investigarlos de forma no sistemática a través de unidades administrativas del MoD que tenían la responsabilidad de tramitar los reportes como parte de sus funciones más amplias de seguridad aérea, y archivarlos. Década tras década, carpeta tras carpeta, el MoD construyó sin proponérselo uno de los archivos gubernamentales más extensos del mundo sobre el fenómeno.
+Underwood era piloto de los Black Aces, compañero de escuadrón de Fravor. El 14 de noviembre, después del encuentro de Fravor, Underwood despegó en un F/A-18F equipado con una cápsula AN/ASQ-228 ATFLIR —un sensor electro-óptico e infrarrojo diseñado para detectar, identificar y rastrear aeronaves a larga distancia en condiciones de visibilidad reducida. El ATFLIR ve en el espectro infrarrojo, lo que significa que detecta diferencias de temperatura, no formas visibles en el sentido convencional. Lo que el video muestra no es una fotografía del objeto. Es una representación térmica de algo que emitía una firma de calor distinta a la del entorno.
 
-En 2000, el Parlamento británico aprobó la Freedom of Information Act, que entró en vigor plenamente en 2005. La ley otorgaba a cualquier ciudadano el derecho de solicitar acceso a documentos gubernamentales. Las solicitudes sobre archivos de UAPs comenzaron a llegar casi de inmediato, impulsadas por investigadores civiles que llevaban años intentando acceder a documentos que sabían que existían —por referencias en informes parlamentarios, por filtraciones parciales, por el caso Rendlesham— pero que el MoD no había tenido incentivo para publicar.
+Underwood localizó un objeto que el radar del Princeton confirmó como contacto no identificado. Activó el ATFLIR y lo fijó en el blanco. El video FLIR1 —autenticado por el Departamento de Defensa en el comunicado del 27 de abril de 2020 como material genuino capturado por sensores de la Armada— muestra una forma ovalada blanca contra un fondo gris, moviéndose erráticamente dentro del encuadre del sensor. El objeto cambia de posición y velocidad sin transición visible. En un momento, acelera hacia la izquierda y sale del encuadre del ATFLIR. El sensor tarda en re-adquirirlo.
 
-Entre 2008 y 2013, el MoD liberó en etapas más de 60.000 páginas de documentación. Las transfería a los National Archives en Kew, donde quedaban disponibles para consulta pública. La serie más relevante para el fenómeno UAP es la DEFE —documentos del Ministry of Defence— complementada por la serie AIR —documentos del Air Ministry y de la Royal Air Force—. Los archivos cubren desde los años 50 hasta principios de los 2000. Incluyen reportes de avistamientos, investigaciones de casos específicos, correspondencia interna sobre la política del gobierno hacia el fenómeno, y evaluaciones de inteligencia sobre posibles amenazas.
+Lo que el video no muestra: velocidad precisa, altitud exacta, tamaño medido, distancia al sensor. El ATFLIR no es un telémetro. No mide dimensiones físicas. Lo que Underwood vio en su pantalla fue una firma térmica que se comportaba de forma anómala. Lo que el Departamento de Defensa autenticó fue que el video es real —no que el objeto sea de origen no humano, no que desafíe las leyes de la física, no que represente una amenaza. La autenticación del Pentágono es un hecho documentado. La interpretación de lo que el video contiene no lo es.
 
-Lo que esos archivos revelan no es una política de encubrimiento sistemático. Es algo más interesante: una política de ambivalencia institucional sostenida durante décadas. El MoD no sabía qué hacer con los reportes de UAPs. No quería crear una agencia dedicada —el costo político y financiero de admitir que el fenómeno merecía una oficina permanente era alto—, pero tampoco quería ignorar reportes de objetos no identificados en espacio aéreo restringido provenientes de pilotos militares y controladores. La solución fue una unidad pequeña, con poco personal, sin visibilidad pública, que tramitaba los casos, investigaba los que consideraba relevantes para la seguridad aérea, y archivaba el resto.
+Según declaró Underwood a New York Magazine en 2019 —fuente secundaria, posterior al evento, que debe ser evaluada con la cautela que corresponde a un testimonio no prestado bajo juramento ni registrado en un documento oficial contemporáneo—, la firma térmica del objeto no correspondía a la de ningún sistema de propulsión conocido. No había una fuente de calor concentrada en toberas de escape. La firma era uniforme, distribuida a lo largo de la forma del objeto, sin el gradiente de temperatura que produce un motor a reacción.
 
-Entre 1991 y 1994, esa unidad se llamó Secretariat (Air Staff) 2a, y el funcionario encargado de investigar los avistamientos fue Nick Pope.
+Esa observación es el testimonio de Underwood, no una medición instrumental independiente verificada. El FLIR1 registra una firma térmica. No registra la causa de esa firma. La distancia entre "el sensor detectó calor" y "el calor provenía de un sistema de propulsión desconocido" es una inferencia. El libro la registra como lo que es: el testimonio de un piloto entrenado interpretando los datos de su sensor.
 
-Pope llegó al puesto como un funcionario civil escéptico del fenómeno UAP. Su trabajo consistía en recibir reportes de avistamientos, evaluar si representaban una amenaza para la defensa aérea del Reino Unido, investigar los casos que lo ameritaran y redactar informes para la cadena de mando. Durante tres años, Pope examinó cientos de reportes. Entrevistó a testigos. Contrastó datos de radar. Y llegó a una conclusión que ha declarado públicamente en repetidas ocasiones: un subconjunto de los casos que investigó no tenía explicación convencional, involucraba a testigos altamente creíbles —pilotos militares, controladores aéreos, oficiales de policía— y merecía una investigación más profunda de la que el MoD estaba dispuesto a financiar.
+---
 
-Debo contextualizar a Pope con precisión. Durante su período como funcionario activo del MoD (1991-1994), sus evaluaciones tienen el peso de un analista de inteligencia gubernamental en funciones —sus informes internos eran documentos oficiales, sus conclusiones eran revisadas por superiores, su metodología era la del servicio civil británico. Después de su retiro del MoD, Pope se convirtió en escritor y comentarista público sobre UAPs, y sus declaraciones deben ser evaluadas con el mismo criterio que las de cualquier fuente que ha transitado del servicio público al comentario independiente: su conocimiento del sistema es valioso, pero su postura ya no es la de un funcionario neutral sino la de un defensor de la investigación del fenómeno. Uso sus declaraciones del período activo con el peso de fuente oficial, y sus declaraciones posteriores con la cautela que corresponde a una fuente que ha evolucionado.
+# CAPÍTULO 6 — Sección E
+## *El proceso de eliminación*
 
-El caso más significativo dentro de los archivos del MoD es Rendlesham. El Capítulo 4 lo documentó en detalle: memorando Halt, grabación de audio, marcas en el suelo, mediciones de radiación. En esta sección no se re-desarrolla. Se menciona como lo que es dentro de los archivos británicos: el caso más documentado, el que involucró al personal militar de mayor rango, el que generó más correspondencia interna en el MoD, y el que permanece sin explicación oficial después de cuarenta años. Los archivos del MoD sobre Rendlesham están disponibles en los National Archives bajo la referencia AIR 2/18477.
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~500 palabras
+**Siguiente sección:** Cap06-F — Lo que el caso representa
 
-Lo que los archivos británicos comparten con los del GEIPAN no es una conclusión —ninguno de los dos países emitió una conclusión oficial sobre el origen del fenómeno— sino un residuo. En Francia, aproximadamente el 3% de los casos llegan a Clase D. En el Reino Unido, el MoD nunca estableció un sistema de clasificación equivalente, pero los informes internos —incluyendo los redactados por Pope durante su período activo— identifican consistentemente un subconjunto de casos que resisten el análisis convencional y que involucran a testigos cuya credibilidad profesional elimina la explicación del error o el fraude.
+---
 
-El contraste con Francia es deliberado y debe hacerse explícito. Francia creó proactivamente un organismo permanente dentro de su agencia espacial, con metodología científica, que publicó sus archivos voluntariamente en 2007. El Reino Unido acumuló archivos sin organismo permanente y los liberó reactivamente bajo presión legal entre 2008 y 2013. Dos caminos institucionales completamente distintos conducen a un resultado similar: documentación pública que muestra que el fenómeno fue investigado, que algunos casos son inexplicables, y que ningún gobierno llegó a una conclusión oficial sobre el origen. La diferencia está en el camino —proactivo versus reactivo— y el camino importa. Refleja actitudes institucionales distintas hacia la transparencia y hacia si el fenómeno merece el estatus de objeto de investigación permanente.
+El libro ha aplicado el mismo método a cada caso que ha examinado: presentar las hipótesis convencionales disponibles y contrastarlas contra la evidencia específica. El incidente Nimitz no es una excepción. Lo que sigue no prueba qué era el objeto. Establece qué explicaciones no cierran satisfactoriamente para la evidencia documentada.
 
-Lo que el Reino Unido añade al argumento del Capítulo 6 no es un caso nuevo —Rendlesham ya fue presentado— sino la evidencia de que un segundo Estado, con una tradición institucional completamente distinta a la francesa y sin un organismo permanente como el GEIPAN, llegó al mismo punto: décadas de documentación, investigación inconsistente pero no inexistente, y un residuo de casos sin explicación que los archivos oficiales preservan sin resolver.
+**Error de percepción.** Fravor, Slaight y Dietrich vieron el objeto simultáneamente desde dos cabinas distintas. El radar AN/SPY-1 del Princeton confirmó el contacto en posición coincidente con lo que los pilotos reportaban visualmente. El FLIR1 de Underwood registró una firma térmica horas después en el mismo sector. La coincidencia entre observación visual de tres pilotos entrenados, radar de combate y sensor infrarrojo hace que la hipótesis de error de percepción individual sea inverosímil para este caso. Tres personas no sufren la misma alucinación al mismo tiempo mientras dos sistemas de detección independientes registran el mismo contacto.
 
-Brasil, Chile y Argentina tomaron un tercer camino. No crearon agencias espaciales con mandato científico como Francia, ni acumularon archivos en silencio como el Reino Unido. Desclasificaron activamente documentos como política de Estado y crearon organismos específicamente dedicados a investigar y publicar. El resultado es el archivo gubernamental más transparente del mundo sobre el fenómeno.
+**Dron.** En noviembre de 2004, el desarrollo de drones con capacidad de vuelo autónomo estaba en sus primeras fases. El MQ-1 Predator operaba a altitudes medias y velocidades subsónicas —no descendía de 28.000 metros a nivel del mar en segundos, no carecía de superficies de control visibles, no ejecutaba maniobras sin equivalentes aerodinámicos conocidos. Ningún dron operacional en 2004, de ningún país, tenía la combinación de techo operativo, velocidad de descenso y maniobrabilidad que los pilotos describieron y el radar registró. Extrapolar capacidades futuras a 2004 no es evaluación de hipótesis: es especulación.
+
+**Avión experimental.** Ningún programa de desarrollo aeronáutico conocido —estadounidense o extranjero— en 2004 producía un objeto con las características documentadas en el incidente Nimitz. Un prototipo con capacidad de descenso desde 28.000 metros hasta nivel del mar y maniobras sin superficies de control habría representado una revolución en ingeniería aeronáutica sin precedentes. Ningún programa de esa envergadura ha sido revelado, filtrado ni admitido en las dos décadas transcurridas desde el incidente. El argumento de que podría existir en secreto no es un argumento contra la eliminación —es el argumento de tecnología humana secreta que el Capítulo 9 evaluó para el núcleo verificable y no pudo sostener.
+
+**Globo.** Un globo aerostático no maniobra activamente hacia un F/A-18F que se aproxima. No acelera lateralmente fuera del encuadre de un sensor infrarrojo. No aparece en el CAP point antes de que los cazas despeguen y desaparece al ser sobrevolado. La hipótesis es incompatible con el comportamiento documentado.
+
+Ninguna de las cuatro hipótesis cierra. Como en los casos anteriores, el argumento no prueba qué era el objeto. Reduce el espacio de lo que no pudo haber sido. Y ese espacio reducido es lo que el caso Nimitz hereda del método que el libro ha aplicado durante diez capítulos.
+
+---
+
+# CAPÍTULO 6 — Sección F
+## *Lo que el caso representa*
+
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~300 palabras
+**Siguiente sección:** Cap07-A — Francia y el GEIPAN: cuando el estado investiga
+
+---
+
+El incidente Nimitz no establece qué era el objeto que Fravor vio, que Day rastreó y que Underwood grabó. No es esa la contribución del caso al argumento del libro. Su contribución es otra: es el primer caso plenamente documentado en la historia en que el gobierno de los Estados Unidos autenticó material audiovisual de un encuentro con un fenómeno aéreo no identificado, emitido por sensores militares en condiciones operativas reales, y reconoció públicamente carecer de explicación para lo que las imágenes contienen.
+
+Eso no convierte al objeto en algo extraordinario. Convierte al caso en algo documentalmente irreversible.
+
+Antes del 27 de abril de 2020, un escéptico podía argumentar que los videos del Pentágono eran falsificaciones, que los pilotos exageraban, que el radar había fallado. El comunicado del Departamento de Defensa eliminó esas líneas de defensa. El video es auténtico. Los pilotos son reales. El radar pertenecía a un sistema de combate desplegado en operaciones activas. La Armada investigó el incidente y no encontró explicación convencional. El gobierno no dijo qué era el objeto. Dijo que existía —en el sentido de que el video es genuino, el encuentro ocurrió, y la investigación no lo resolvió.
+
+Ese es el hecho documental. Todo lo demás —las declaraciones de Fravor ante el Congreso, el testimonio de Day sobre lo que el radar mostró, las declaraciones posteriores de Underwood— es evidencia testimonial de testigos con credibilidad institucional verificable. No es prueba del origen del objeto. Es prueba de que el sistema que debía identificarlo no pudo.
+
+El caso Nimitz no cierra el argumento del libro. Lo deja exactamente donde debe estar: abierto. Lo abre hacia la pregunta que la Parte III examina: si el gobierno más poderoso del mundo autenticó el encuentro y no pudo explicarlo, ¿qué hipótesis quedan en pie cuando se aplica el proceso de eliminación a la evidencia disponible?

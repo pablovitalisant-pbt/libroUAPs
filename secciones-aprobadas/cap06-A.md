@@ -1,50 +1,79 @@
 # CAPÍTULO 6 — Sección A
-## *Francia y el GEIPAN: cuando el estado investiga*
+## *El radar que nadie tomó en serio*
 
-**Estado:** BORRADOR — Pendiente de revisión
-**Extensión:** ~1.400 palabras
-**Siguiente sección:** Cap06-B — Reino Unido: los archivos desclasificados
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~500 palabras
+**Siguiente sección:** Cap06-B — David Fravor
 
 ---
 
-Los capítulos anteriores documentaron casos individuales. Aviadores militares que vieron algo y lo reportaron. Agricultores que midieron marcas en el suelo. Pilotos comerciales que desviaron vuelos. Cada caso era un dato. Cada dato sumaba peso acumulado al argumento. Pero un libro que solo documenta casos individuales no puede responder la pregunta que sigue: ¿qué ocurre cuando un Estado decide que el fenómeno merece no una investigación puntual sino un programa permanente?
+Kevin Day llevaba días viendo cosas que no existían.
 
-Francia tiene la respuesta más documentada del mundo. Y la respuesta empezó en 1977, veinticuatro años antes del comunicado del Pentágono sobre Nimitz, treinta años antes de que el gobierno francés publicara sus archivos en internet, con un acto institucional que ningún otro país había realizado: la creación del GEPAN como división permanente del CNES.
+Esa era, al menos, la interpretación de la cadena de mando. Day era Petty Officer en el USS Princeton, el crucero de misiles guiados CG-47 equipado con el sistema de combate Aegis, encargado del control de tráfico aéreo y la defensa antimisiles del grupo de ataque del USS Nimitz. Su puesto era la sala de combate del Princeton, frente a las pantallas del radar AN/SPY-1 —uno de los sistemas de detección más avanzados del arsenal naval de los Estados Unidos, diseñado para rastrear misiles balísticos entrantes, no para registrar fenómenos atmosféricos. Day era un operador experimentado. Su trabajo consistía en distinguir objetos reales de falsos ecos. Las consecuencias de equivocarse —una interceptación no autorizada, una colisión en el aire, un misil que no se detecta a tiempo— eran la razón por la que existía su puesto.
 
-El GEPAN —Groupement d'Étude des Phénomènes Aérospatiaux Non-identifiés— no fue una respuesta a una oleada de avistamientos. No fue un comité temporal creado para calmar a la opinión pública. Fue la decisión de incorporar la investigación del fenómeno a la estructura de la agencia espacial nacional —el equivalente francés de la NASA— como una función permanente, con presupuesto, personal técnico y acceso a laboratorios. Sus directores fueron ingenieros aeronáuticos. Su metodología fue la misma que el CNES aplicaba a la investigación de anomalías en misiones espaciales: recibir reportes, desplegar investigadores, tomar muestras, encargar análisis a laboratorios independientes, publicar resultados.
+Durante los días previos al 14 de noviembre de 2004, el SPY-1 venía registrando objetos que aparecían y desaparecían de las pantallas a intervalos regulares. Los ecos no se comportaban como aeronaves. Aparecían a altitudes de hasta 28.000 metros —muy por encima del techo operativo de cualquier avión conocido— y descendían a nivel del mar en intervalos que, según Day declaró posteriormente, el sistema estimaba en menos de un segundo. Los objetos no estaban en los planes de vuelo. No respondían a las llamadas de radio. No dejaban estela de condensación ni firma térmica detectable. Eran puntos en una pantalla que el sistema de armas más sofisticado de la Armada no podía clasificar.
 
-El modelo duró once años en su forma original. En 1988 fue reorganizado como SEPRA —Service d'Expertise des Phénomènes de Rentrée Atmosphérique— con un mandato más restringido a fenómenos de reentrada atmosférica. En 2005, tras una revisión de su función, fue refundado como GEIPAN —Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non-identifiés— con el mandato más amplio de su historia: investigar, informar y publicar. El acrónimo cambió tres veces en tres décadas, pero el núcleo institucional se mantuvo: una oficina permanente dentro del CNES con la misión de aplicar metodología científica a la investigación de fenómenos aéreos no identificados.
+Day reportó los contactos. Sus superiores los atribuyeron a fallos de calibración. Los técnicos revisaron el sistema. El radar estaba funcionando dentro de parámetros. Los objetos siguieron apareciendo. Day siguió reportándolos. La cadena de mando siguió archivando sus reportes como anomalías instrumentales. Según Day declaró en entrevistas posteriores, la cantidad de objetos rastreados durante esos días superaba la decena, y el patrón de aparición y desaparición era lo suficientemente regular como para que los operadores del Princeton pudieran anticiparlo.
 
-En marzo de 2007, el GEIPAN hizo algo que ningún gobierno había hecho antes: publicó su base de datos completa en acceso público. Cualquier persona puede visitar geipan.fr y consultar más de 1.600 casos investigados desde 1977, cada uno con su clasificación, su documentación y las conclusiones del organismo. No es una filtración. No es una desclasificación forzada por una ley de transparencia. Es la decisión voluntaria de un Estado de hacer pública la evidencia que ha recolectado durante décadas.
+El patrón se repitió durante días. Los operadores del Princeton empezaron a esperar los objetos —aparecían en las mismas franjas horarias, en las mismas altitudes imposibles, con la misma secuencia de descenso abrupto y desaparición. La frustración de Day no era que el radar viera cosas. Era que el radar veía cosas que ningún procedimiento operativo contemplaba, y que la institución para la que trabajaba prefería la explicación del error técnico a la posibilidad de que el contacto fuera real. Un sistema diseñado para detectar amenazas existenciales a un grupo de ataque estaba registrando presencias no identificadas en el espacio aéreo de entrenamiento, y la respuesta institucional era asumir que el sistema estaba equivocado.
 
-El sistema de clasificación del GEIPAN es el instrumento metodológico más importante para entender qué encontró. Los casos se clasifican en cuatro categorías:
+El 14 de noviembre, Day recibió una indicación que no podía ser error de calibración. Un objeto estaba en el CAP point —el punto de combate aéreo programado para los ejercicios de ese día— antes de que los cazas despegaran. Algo estaba donde se suponía que debían estar los F/A-18F, esperando.
 
-Clase A: fenómeno identificado con certeza —un avión, un globo, un planeta, un meteoro— y explicación verificada independientemente.
+Day vectorizó a los cazas hacia el contacto. Lo que ocurrió después no lo vio en sus pantallas. Lo vio David Fravor.
 
-Clase B: fenómeno probablemente identificado —la explicación más probable es convencional, pero no hay certeza absoluta.
+---
 
-Clase C: fenómeno insuficientemente documentado —la información disponible no permite clasificarlo como identificado ni como inexplicado.
+# CAPÍTULO 6 — Sección B
+## *David Fravor*
 
-Clase D: fenómeno no identificado a pesar de la calidad de la documentación disponible —todas las hipótesis convencionales han sido evaluadas y ninguna explica satisfactoriamente los datos.
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~400 palabras
+**Siguiente sección:** Cap06-C — El encuentro
 
-La clase D es la que importa para el argumento de este libro. No porque los casos de clase D sean pruebas de origen no humano —no lo son— sino porque representan el residuo que queda después de aplicar el mejor análisis disponible a la mejor evidencia disponible. Y ese residuo, según las estadísticas del propio GEIPAN, representa aproximadamente el 3% del total de casos investigados.
+---
 
-Tres por ciento suena a poco. Debo contextualizar esa cifra. Tres de cada cien personas que ven algo en el cielo y lo reportan a la Gendarmería están viendo algo que los ingenieros del CNES, aplicando todos los recursos de la agencia espacial francesa, no pueden explicar. Tres de cada cien casos donde la evidencia es suficientemente buena para ser evaluada con rigor —no descartada por insuficiente— resisten todas las explicaciones convencionales disponibles. Si el fenómeno fuera exclusivamente errores de percepción, fraudes y malas identificaciones, la clase D no existiría. Existe. Y representa el dato más sólido que un organismo oficial ha producido sobre la irreductibilidad del fenómeno a las categorías disponibles.
+El comandante David Fravor llevaba dieciocho años volando para la Armada de los Estados Unidos el 14 de noviembre de 2004. Piloto de F/A-18F Super Hornet, comandante del escuadrón VFA-41 Black Aces, graduado de la Fighter Weapons School —lo que la Armada llama TOPGUN—, con despliegues de combate en Irak y Bosnia en su historial. No necesito añadir nada a eso. Dieciocho años de vuelo en combate y el mando de un escuadrón de cazas de ataque son hechos de carrera. No los convierto en argumento de credibilidad porque no hace falta: la Armada ya hizo esa evaluación cuando le dio el mando.
 
-Trans-en-Provence es un caso de Clase D. El Capítulo 5 lo documentó con detalle: marcas en el suelo, análisis botánico del INRA, publicación revisada por pares. No se vuelve a desarrollar aquí. Se referencia como lo que es: el ejemplo paradigmático de la metodología del GEIPAN funcionando como fue diseñada. Gendarmería notifica. GEIPAN investiga. Laboratorios independientes analizan. Informe técnico publicado. Conclusión: sin explicación convencional.
+Fravor había aterrizado en el Nimitz esa mañana después de un vuelo de entrenamiento. Estaba en la sala de pilotos cuando recibió la orden de cambiar de misión. El Princeton tenía un contacto no identificado y necesitaba interceptores en el aire. No era un simulacro. El operador de radar —Day— llevaba días reportando objetos y esta vez el contacto estaba exactamente donde los F/A-18F debían realizar sus ejercicios programados.
 
-El GEIPAN no es el único dato institucional francés relevante para este capítulo. En 1999, un grupo de altos funcionarios franceses retirados publicó el Informe COMETA. El COMETA —Comité para Estudios en Profundidad— estaba compuesto por generales, almirantes, un exdirector de inteligencia y altos funcionarios civiles. No produjeron su informe como representantes del gobierno francés. Lo produjeron a título personal, como ciudadanos con décadas de experiencia en seguridad nacional y análisis de inteligencia. Pero lo entregaron formalmente al Presidente de la República y al Primer Ministro.
+Fravor y su oficial de sistemas de armas, el teniente comandante Jim Slaight, se dirigieron a su F/A-18F. Un segundo Super Hornet, pilotado por la teniente comandante Alex Dietrich, los seguiría. Los dos cazas despegaron del Nimitz con la misión de identificar lo que el SPY-1 estaba pintando.
 
-La conclusión del Informe COMETA es la más contundente que un grupo de exfuncionarios de alto nivel ha formulado públicamente sobre el fenómeno: la hipótesis extraterrestre merece consideración seria como explicación parcial del fenómeno. El informe no afirma que los objetos sean de origen no humano. Afirma que la evidencia disponible —incluyendo los archivos del GEIPAN, los casos militares franceses y los casos internacionales más documentados— es suficiente para que esa hipótesis sea tomada en serio por el gobierno.
+Lo que Fravor sabía al despegar era mínimo: un contacto no identificado, a una altitud y velocidad que no correspondían a nada en los registros de tráfico, en una zona de entrenamiento militar restringida. Lo que Fravor no sabía —porque ningún piloto de combate espera encontrarse con algo que desafíe su marco de referencia— era que en los minutos siguientes iba a ver un objeto que dieciséis años después describiría bajo juramento ante el Congreso de los Estados Unidos con las mismas palabras que usó al aterrizar: no tengo idea de qué era eso.
 
-Debo ser preciso: el Informe COMETA no es la posición oficial del gobierno francés. Es la posición de un grupo de funcionarios retirados que decidieron que la evidencia que habían visto a lo largo de sus carreras merecía una conclusión más honesta que el silencio institucional. El gobierno francés no adoptó formalmente la conclusión del COMETA. Pero tampoco la rechazó. La recibió, la archivó, y el GEIPAN siguió funcionando con su mandato científico —sin afirmar origen, sin descartar hipótesis, simplemente investigando.
+---
 
-El modelo francés no es perfecto. Tiene limitaciones presupuestarias, restricciones de personal y el eterno problema de que investigar un fenómeno que no se anuncia, no se repite bajo condiciones controladas y no coopera con el método experimental es una empresa intelectualmente frustrante. Pero es el mejor modelo disponible. Y su existencia demuestra algo que el contraste con Estados Unidos hace visible.
+# CAPÍTULO 6 — Sección C
+## *El encuentro*
 
-Estados Unidos investigó el fenómeno con Sign, Grudge y Blue Book —programas reactivos, creados tras oleadas mediáticas, con mandatos que oscilaban entre investigar y explicar, cerrados en 1969 sin continuidad institucional. Francia investigó el fenómeno con un organismo permanente dentro de su agencia espacial, con metodología científica consistente, que sigue operativo hoy y que en 2007 decidió hacer públicos sus archivos.
+**Estado:** BORRADOR — Fase B
+**Extensión:** ~1.000 palabras
+**Siguiente sección:** Cap06-D — Lo que Underwood grabó
 
-La diferencia no es de grado. Es de diseño. Estados Unidos creó instituciones para responder a crisis mediáticas y luego cerrarlas cuando la presión bajaba. Francia creó una institución para aprender de forma continua. El resultado no es que Francia sepa qué son los objetos y Estados Unidos no. Es que Francia tiene un archivo público de 1.600 casos clasificados con criterios científicos, y Estados Unidos tiene una sucesión de programas cancelados, documentos destruidos y archivos dispersos que los investigadores civiles han tenido que reconstruir durante décadas.
+---
 
-Francia no llegó a una conclusión sobre el origen de los objetos. Pero sistematizó la evidencia, la clasificó con criterios verificables y la hizo pública. Eso es cualitativamente distinto a investigar y archivar. Es el primer Estado que trató el fenómeno como lo que la evidencia establece que es: un fenómeno físicamente real que merece investigación sistemática, no una curiosidad que se investiga cuando los periódicos gritan y se archiva cuando se callan.
+El F/A-18F de Fravor y Slaight llegó al CAP point con el segundo Super Hornet de Dietrich a poca distancia. El día era claro. El Pacífico, plano y azul oscuro, se extendía en todas direcciones sin una sola referencia visual. Las condiciones de vuelo eran perfectas.
 
-El Reino Unido tomó un camino distinto. No creó un organismo permanente como Francia —pero acumuló archivos durante décadas y los liberó bajo presión de la Freedom of Information Act. El resultado es distinto en forma pero similar en fondo: 60.000 páginas de documentación oficial que registran avistamientos, investigan casos, y no encuentran explicación para los más sólidos.
+El controlador del Princeton los guió hacia el contacto. La primera indicación fue que el objeto no estaba donde el radar lo había situado inicialmente —había descendido. El SPY-1 lo tenía ahora a baja altitud, cerca de la superficie. Fravor dirigió el F/A-18F hacia las coordenadas y empezó a descender.
+
+Lo que vio desde la cabina fue una perturbación en el agua. Una zona circular de aproximadamente el tamaño de un Boeing 737 donde la superficie del océano estaba agitada, como si algo —un objeto sumergido o una corriente de aire dirigida hacia abajo— estuviera removiendo el agua desde arriba. La perturbación no se movía como una ola. Era una efervescencia localizada, precisa, con bordes definidos. Sobre ella, a unos quince metros de altitud, había un objeto.
+
+El objeto era blanco, liso, de forma cilíndrica alargada —un Tic Tac, en las palabras que Fravor usaría después y que el mundo repetiría durante años. Aproximadamente cuarenta pies de largo, sin alas, sin rotores, sin superficies de control visibles, sin toberas de escape, sin marcas. No emitía humo. No dejaba estela. No tenía parabrisas ni cabina. Era una forma blanca suspendida sobre el agua, moviéndose erráticamente sobre la zona de perturbación, como si estuviera inspeccionando lo que ocurría debajo.
+
+Fravor inició una espiral de aproximación. El F/A-18F es un caza de cuarta generación, diseñado para combate aéreo y ataque a tierra, con capacidad de maniobra que pocos aviones igualan. Fravor estaba volando el mejor caza de superioridad aérea que la Armada tenía en servicio activo, y llevaba dieciocho años haciéndolo. Inició el descenso hacia el objeto con la intención de identificarlo visualmente.
+
+El objeto lo detectó.
+
+No uso esa palabra a la ligera. Describo lo que Fravor declaró: el Tic Tac interrumpió su movimiento errático sobre el agua y comenzó a ascender hacia el F/A-18F. No se desvió. No huyó. Ascendió hacia el caza en una trayectoria que Fravor describió como deliberada —el objeto estaba respondiendo a la presencia del interceptor y se dirigía hacia él.
+
+Fravor intentó cortarle el paso. Dirigió el F/A-18F directamente hacia el objeto para forzar un encuentro frontal. El Tic Tac se apartó en el último momento y aceleró. No giró como un avión —no describió un arco de viraje, no inclinó las alas porque no tenía alas. Simplemente cambió de dirección y desapareció del campo visual de Fravor en segundos.
+
+Slaight, en el asiento trasero, perdió el contacto visual al mismo tiempo. Dietrich, en el segundo F/A-18F, vio desaparecer al objeto desde su posición. Los tres pilotos —dos cazas, tres pares de ojos entrenados, dieciocho años de experiencia en el líder de la formación— acababan de perder un objeto que ninguno de ellos pudo identificar, que ninguno de sus sistemas pudo clasificar, y que acababa de ejecutar una maniobra de evasión sin equivalente en ningún manual de combate aéreo.
+
+El Princeton llamó por radio. Tenían un nuevo contacto. No era el mismo objeto —o tal vez sí. El radar mostraba algo en el CAP point original, a decenas de millas de donde el Tic Tac acababa de desaparecer. Exactamente en el punto donde los F/A-18F debían haber iniciado sus ejercicios. El objeto —o lo que fuera— se había trasladado allí en un intervalo que Fravor, en sus declaraciones posteriores, describió como incompatible con cualquier velocidad de aeronave conocida.
+
+Los dos F/A-18F se dirigieron al CAP point. Cuando llegaron, el radar les indicó que el objeto ya no estaba allí. El Princeton había perdido el contacto. Fravor y Dietrich sobrevolaron la zona durante varios minutos. Nada.
+
+Regresaron al Nimitz sin el objeto. Sin explicación. Sin categoría para lo que acababan de ver. En cubierta, Fravor se encontró con Chad Underwood, otro piloto de los Black Aces. Underwood acababa de escuchar las comunicaciones de la intercepción por la radio del escuadrón. Fravor le dijo lo que había visto. Underwood le dijo que quería intentar encontrarlo.
+
+Horas después, Underwood despegó en otro F/A-18F con una cápsula FLIR acoplada al fuselaje —un sensor infrarrojo de alta resolución diseñado para rastrear aeronaves enemigas a larga distancia. Lo que Underwood grabó es el video FLIR1. Lo que Fravor vio y lo que Underwood grabó son dos eventos distintos, con dos tipos de evidencia distintos, separados por horas. El libro mantiene esa distinción porque la evidencia la exige.
+
