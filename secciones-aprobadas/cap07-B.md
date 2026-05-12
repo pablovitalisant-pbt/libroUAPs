@@ -47,7 +47,7 @@ El sesgo de confirmación no produce la firma de radar de un Boeing 707 en la pa
 
 La evidencia física es el límite infranqueable de la hipótesis cognitiva. Los mecanismos psicológicos operan en la mente. La mente puede producir percepciones, relatos y creencias. No puede producir marcas, daños, lecturas y firmas que instrumentos independientes registran, que laboratorios nacionales analizan y que publicaciones revisadas por pares confirman.
 
-La hipótesis cognitiva es sólida para el corpus general de avistamientos —los de baja calidad documental, los nocturnos sin confirmación, los que dependen exclusivamente del testimonio. El narrador lo reconoce sin reservas. Pero no es suficiente para el núcleo. Y la razón de esa insuficiencia no es que la hipótesis sea débil. Es que opera en un dominio —la mente— distinto al dominio de la evidencia del núcleo —el entorno físico medible.
+La hipótesis cognitiva es sólida para el corpus general de avistamientos —los de baja calidad documental, los nocturnos sin confirmación, los que dependen exclusivamente del testimonio. lo reconozco sin reservas. Pero no es suficiente para el núcleo. Y la razón de esa insuficiencia no es que la hipótesis sea débil. Es que opera en un dominio —la mente— distinto al dominio de la evidencia del núcleo —el entorno físico medible.
 
 ---
 

@@ -8,7 +8,7 @@ def natural_sort_key(filename):
 # Obtener todos los archivos .md
 md_files = [f for f in os.listdir('.') 
             if f.endswith('.md') 
-            and f not in ['todo_junto.md', 'mdmerger.py']]
+            and f not in ['../MANUSCRITO.md', 'MANUSCRITO.md', 'mdmerger.py']]
 
 # Ordenar correctamente
 md_files.sort(key=natural_sort_key)
@@ -18,7 +18,7 @@ for i, f in enumerate(md_files, 1):
     print(f"  {i}. {f}")
 
 # Unir archivos
-with open("todo_junto.md", 'w', encoding='utf-8') as outfile:
+with open("../MANUSCRITO.md", 'w', encoding='utf-8') as outfile:
     for i, archivo in enumerate(md_files):
         # Separador entre archivos
         if i > 0:
@@ -36,4 +36,4 @@ with open("todo_junto.md", 'w', encoding='utf-8') as outfile:
 
 print(f"\n✓ UNIÓN COMPLETADA")
 print(f"✓ Archivos unidos: {len(md_files)}")
-print(f"✓ Resultado guardado en: todo_junto.md")
+print(f"✓ Resultado guardado en: ../MANUSCRITO.md")
