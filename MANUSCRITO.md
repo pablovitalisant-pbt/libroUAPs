@@ -13,7 +13,7 @@ La primera vez que vi el vídeo lo descarté en treinta segundos.
 
 Era 2017, y el clip había comenzado a circular con el nombre FLIR1 —también llamado "Tic Tac" por la forma del objeto que aparecía en la imagen— después de que el *New York Times* lo publicara en diciembre de ese año junto a una investigación sobre un programa secreto del Pentágono. Las imágenes eran en infrarrojo, granuladas, de baja resolución. Mostraban algo que se desplazaba de manera errática frente a un avión de combate de la Marina de los Estados Unidos mientras los pilotos, captados en el audio del sistema, debatían en tiempo real qué estaban viendo. Los comentaristas en internet oscilaban, como siempre en este campo, entre el entusiasmo crédulo y el delirio conspiracionista.
 
-Me gano la vida evaluando evidencia documental. Yo pertenecía al grupo que no pertenecía a ninguno de los dos: el grupo de las personas que ven una imagen confusa de un objeto indeterminado y entienden que esa ambigüedad no prueba nada. El fenómeno OVNI arrastraba décadas de contaminación sistemática que hacía imposible tomárselo en serio sin quedar asociado a lo peor que ese campo producía: fraudes documentados, testigos que resultaban fabuladores, revistas sin proceso editorial verificable, documentales de cable que trataban las pirámides de Egipto y las abducciones alienígenas con idéntica credulidad. Cualquier persona razonablemente informada que hubiera dedicado tiempo a examinar el campo había llegado a la misma conclusión práctica: había algo que los testigos describían —un fenómeno real de percepción, quizás de psicología social, quizás de identificación errónea de objetos conocidos— pero el ruido era tan abrumador que separar la señal era una empresa que no valía el esfuerzo intelectual.
+Lo que sigue no es el relato de un creyente. Es el resultado de aplicar a un corpus de evidencia el mismo proceso que aplicaría a cualquier otra afirmación extraordinaria: eliminar sistemáticamente lo que no resiste el peso de los datos. Yo pertenecía al grupo que no pertenecía a ninguno de los dos: el grupo de las personas que ven una imagen confusa de un objeto indeterminado y entienden que esa ambigüedad no prueba nada. El fenómeno OVNI arrastraba décadas de contaminación sistemática que hacía imposible tomárselo en serio sin quedar asociado a lo peor que ese campo producía: fraudes documentados, testigos que resultaban fabuladores, revistas sin proceso editorial verificable, documentales de cable que trataban las pirámides de Egipto y las abducciones alienígenas con idéntica credulidad. Cualquier persona razonablemente informada que hubiera dedicado tiempo a examinar el campo había llegado a la misma conclusión práctica: había algo que los testigos describían —un fenómeno real de percepción, quizás de psicología social, quizás de identificación errónea de objetos conocidos— pero el ruido era tan abrumador que separar la señal era una empresa que no valía el esfuerzo intelectual.
 
 Seguí adelante. El vídeo quedó archivado en la categoría donde guardamos las cosas que no necesitan más atención.
 
@@ -62,6 +62,8 @@ Si no son ilusiones, y no son errores de sensor, y no son tecnología humana con
 Este libro no ofrece certeza. Ofrece causa probable, consistente con la evidencia disponible.
 
 Lo leí tres veces. Este libro es lo que ocurrió cuando dejé de intentar descartarlo.
+
+
 
 ---
 
@@ -126,6 +128,8 @@ Esa afirmación no prueba nada sobre la naturaleza del fenómeno. Pero establece
 
 Mil doscientos cincuenta y cuatro años después de Ezequiel, en 1561, los habitantes de Núremberg salieron a las calles y vieron algo en el cielo que tampoco encajaba en los marcos de su época. Pero esta vez no tenemos solo un texto: tenemos un documento impreso, una ilustración, un registro visual. Y lo que esa ilustración muestra es inquietantemente familiar.
 
+
+
 ---
 
 <!-- cap01-B.md -->
@@ -180,6 +184,8 @@ Lo que queda después de evaluar la hipótesis del halo es, de nuevo, una afirma
 Entre el texto de Ezequiel en las orillas del Quebar y la hoja volante de Hans Wolff Glaser en las calles de Núremberg hay 1.254 años de distancia, dos civilizaciones distintas, dos soportes documentales que no tienen nada en común —un rollo hebreo copiado por generaciones de escribas, un impreso alemán producido para el mercado urbano de noticias— y, sin embargo, una coincidencia que el investigador no puede dejar de señalar: en ambos casos, alguien vio objetos en el cielo que no correspondían a nada de lo que su época podía nombrar, e intentó describirlos con las herramientas de su oficio. Ezequiel usó el vocabulario técnico-sacerdotal del Templo. Glaser usó el grabado en madera y la columna de noticias. Ninguno de los dos alegorizó. Ninguno de los dos predicó. Ambos documentaron.
 
 Esa coincidencia no prueba que ambos vieran el mismo fenómeno. Pero plantea la pregunta que la siguiente sección debe responder: si esto fueran dos casos aislados, serían una curiosidad. Si hay más —si el patrón se repite en otras épocas, en otros formatos, con otros testigos igualmente creíbles— entonces la curiosidad empieza a parecerse a otra cosa.
+
+
 
 ---
 
@@ -238,6 +244,8 @@ Eso no es una prueba. Es un punto de partida.
 
 El patrón histórico establece que el fenómeno tiene raíces más profundas de lo que la conversación moderna sobre OVNIs supone. Pero el patrón histórico no puede responder la pregunta central de este libro —¿qué son estos objetos?— porque carece del tipo de evidencia que esa respuesta requiere. Para responderla hacen falta instrumentos: radar, infrarrojo, análisis espectrográfico, telemetría. Hacen falta casos donde los objetos no solo fueron vistos sino medidos. Y esos casos existen. Pero pertenecen a la Parte II.
 
+
+
 ---
 
 <!-- cap01-D.md -->
@@ -292,6 +300,8 @@ El 14 de noviembre de 2004, durante las operaciones del grupo de combate Nimitz 
 Lo que los radares del Princeton detectaron ese día tiene elementos que un sacerdote hebreo en las orillas del río Quebar reconocería: objetos con movimiento controlado que no corresponde a ningún cuerpo conocido, que aparecen y desaparecen, que realizan maniobras que los marcos de referencia disponibles no pueden explicar. Ezequiel no tenía radar. El Princeton no tenía teología. Dos extremos temporales del mismo patrón, separados por 2.597 años.
 
 Eso no prueba que Ezequiel y el Princeton detectaran el mismo fenómeno. Pero establece que la pregunta que Ezequiel dejó abierta —¿qué es esto que estoy viendo?— no la cerró el tiempo, ni la ciencia, ni la tecnología. La pregunta sigue abierta. Y ahora, por primera vez en la historia, hay instrumentos apuntando hacia ella.
+
+
 
 ---
 
@@ -366,6 +376,8 @@ Lo que Bonilla dejó establecido —sin pretenderlo, sin buscarlo, sin saber que
 
 Catorce años después de Bonilla, entre noviembre de 1896 y abril de 1897, miles de personas en Estados Unidos vieron algo que los periódicos llamaron "dirigibles fantasma." Eran objetos alargados, con luces, que surcaban el cielo nocturno de costa a costa. No había un astrónomo con un telescopio. No había placas de colodión húmedo. No había una revista científica que publicara los resultados. Había miles de testigos, decenas de recortes de prensa, y ni un solo instrumento de medición apuntando hacia arriba.
 
+
+
 ---
 
 <!-- cap02-B.md -->
@@ -415,6 +427,8 @@ Eso no prueba que Bonilla y los testigos de Sacramento y Omaha vieran el mismo f
 
 La pregunta que queda abierta es qué hicieron con ese residuo las instituciones que existían para investigar el cielo. Los astrónomos del siglo XIX tenían una respuesta estándar para los reportes de objetos no identificados. Los periodistas tenían otra. Y ninguna de las dos preveía lo que estaba por llegar.
 
+
+
 ---
 
 <!-- cap02-C.md -->
@@ -462,6 +476,8 @@ El siglo XX no heredó un encubrimiento. Heredó un vacío — y sobre ese vací
 
 Esa evidencia es la materia de la Parte II. Pero antes de llegar a ella, el libro necesita cerrar la Parte I respondiendo una pregunta que los dos primeros capítulos han dejado plantada: si el patrón es real y las instituciones no pudieron explicarlo, ¿qué hicieron los gobiernos cuando el fenómeno empezó a aparecer sobre sus bases militares?
 
+
+
 ---
 
 <!-- cap02-D.md -->
@@ -500,6 +516,8 @@ Esos casos existen. Y empiezan donde el siglo XIX termina.
 En agosto de 1883, José Bonilla fotografió algo sobre Zacatecas que no pudo identificar y envió las placas a París. En junio de 1947, un piloto llamado Kenneth Arnold vio nueve objetos sobre las montañas Cascade, en el estado de Washington, y llamó por radio a la torre de control de Yakima para reportarlos. Entre una fecha y la otra hay sesenta y cuatro años, dos guerras mundiales, y un mismo residuo: algo en el cielo que los testigos competentes describen con precisión y que las explicaciones disponibles no alcanzan a cubrir.
 
 La diferencia entre 1883 y 1947 no está en el fenómeno. Está en lo que había en tierra. En 1883, un astrónomo enviaba un artículo por correo y esperaba tres años para verlo publicado. En 1947, un piloto llamaba por radio y en cuestión de horas el ejército abría una investigación. La Parte I termina aquí. La Parte II empieza con esa investigación.
+
+
 
 ---
 
@@ -547,6 +565,8 @@ Arnold nunca cambió su relato. En las décadas siguientes, a medida que el fen�
 El 24 de junio de 1947, un piloto comercial con 4.000 horas de vuelo, buscando los restos de un C-46 sobre las Cascadas, vio algo que no pudo explicar y lo reportó a las autoridades competentes. Eso es todo lo que el caso Arnold establece. Y eso es suficiente para lo que el Capítulo 3 necesita construir. Porque lo que ocurrió después de Arnold no fue que el ejército ignorara el reporte. Fue que el ejército abrió una investigación. Y esa investigación —el Proyecto Sign, el primero de varios— es la que el capítulo documenta a continuación.
 
 Pero antes de Sign, antes de Arnold, hubo pilotos que vieron objetos similares en un contexto donde reportarlos no era una opción. Eran pilotos militares en combate. Lo que vieron no salió en los periódicos. Salió en informes clasificados. Y esos informes son el punto de partida que Arnold no fue.
+
+
 
 ---
 
@@ -601,6 +621,8 @@ La diferencia estaba en quién podía hablar y quién no. Arnold era un civil. P
 
 El Proyecto Sign, el primer programa gubernamental de investigación de objetos voladores no identificados, se abrió en septiembre de 1947. Su misión oficial era determinar si los objetos reportados por Arnold y los testigos que le siguieron representaban una amenaza para la seguridad nacional. Pero los analistas de Sign tenían acceso a archivos que el público no conocía. Y en esos archivos estaban los informes de la 415th.
 
+
+
 ---
 
 <!-- cap03-C.md -->
@@ -644,6 +666,8 @@ El Estimate of the Situation fue destruido en 1948. El mismo año, a dos mil kil
 
 Pero eso es materia de otro capítulo.
 
+
+
 ---
 
 <!-- cap03-D.md -->
@@ -680,6 +704,8 @@ Ninguno de esos tres factores —espacio aéreo soberano, Guerra Fría, testigo 
 El Estimate of the Situation fue destruido en 1948. Los analistas que lo escribieron volvieron a sus escritorios en Wright-Patterson y siguieron trabajando. El fenómeno siguió siendo reportado. Y los radares —que en 1948 eran una tecnología nueva, todavía no desplegada en todas las bases— en los años siguientes estarían apuntando al cielo en cada base militar del mundo occidental. Lo que los analistas de Sign concluyeron por razonamiento sobre testimonios, los radares de las décadas siguientes empezarían a registrar como datos duros.
 
 El Capítulo 4 documenta lo que esos radares encontraron.
+
+
 
 ---
 
@@ -740,6 +766,8 @@ El caso Teherán no fue el único donde un piloto militar vio algo y sus instrum
 
 Cuatro años después, en diciembre de 1980, el personal de una base aérea estadounidense en Inglaterra vería algo similar desde tierra —no desde una cabina de caza— y registraría no solo testimonios y fallos de instrumentos, sino marcas físicas en el suelo y niveles de radiación anómalos. El capítulo continúa allí.
 
+
+
 ---
 
 <!-- cap04-B.md -->
@@ -777,7 +805,7 @@ El objeto, según el memorando que Halt redactó dos semanas después y envió a
 
 "While the object was being observed it appeared to throw off a bank of bright lights and then disappeared into the darkness. No noise was heard."
 
-Al día siguiente, Halt regresó al área con el dosímetro. En el lugar donde el objeto había estado más cerca del suelo, el equipo encontró tres depresiones en forma de triángulo — las mismas que Penniston había reportado la primera noche. El dosímetro registró 0.1 milliroentgens por hora en las depresiones. El nivel de radiación de fondo en el área circundante era significativamente menor. La Policía de Suffolk — un organismo civil británico, independiente de la USAF — fue llamada para medir las depresiones y confirmó su existencia.
+Al día siguiente, Halt regresó al área con el dosímetro. En el lugar donde el objeto había estado más cerca del suelo, el equipo encontró tres depresiones en forma de triángulo — las mismas que Penniston había reportado la primera noche. El dosímetro registró lecturas de 0.1 milliroentgens —la unidad operacional habitual de los dosímetros de la época— en las depresiones. El nivel de radiación de fondo en el área circundante era significativamente menor. La Policía de Suffolk — un organismo civil británico, independiente de la USAF — fue llamada para medir las depresiones y confirmó su existencia.
 
 Halt redactó un memorando oficial de tres páginas el 13 de enero de 1981 y lo envió al Ministry of Defence del Reino Unido. El memorando no fue filtrado a la prensa. No fue publicado en una revista de divulgación. Halt lo escribió por deber — su obligación como comandante adjunto de una base nuclear era informar a la cadena de mando de un incidente que involucraba objetos no identificados en el espacio aéreo y el terreno de la base. El memorando quedó clasificado por defecto y fue desclasificado décadas después bajo la Freedom of Information Act.
 
@@ -790,6 +818,8 @@ Las marcas en el suelo, las mediciones de radiación y la grabación de audio no
 El caso Rendlesham no establece qué eran los objetos que Penniston, Burroughs y Halt vieron en el bosque en diciembre de 1980. No puede afirmarse que fueran de origen no humano. No puede afirmarse que las marcas en el suelo fueran producidas por un aterrizaje — podrían tener otras causas, aunque ninguna haya sido identificada satisfactoriamente. Pero puede afirmarse que el comandante adjunto de una base nuclear de la OTAN consideró que lo que había visto era lo suficientemente real, lo suficientemente inexplicable y lo suficientemente relevante para la seguridad de la base como para escribirlo en un memorando oficial y enviarlo al gobierno británico.
 
 Un año antes de Rendlesham, el 11 de noviembre de 1979, un piloto comercial español al mando de un Super Puma con 109 pasajeros a bordo se encontró con algo que tampoco pudo identificar. El caso que siguió — Manises — involucra a un avión de pasajeros desviado de emergencia, un interceptor Mirage F1 enviado a identificar el objeto, y un expediente militar que el gobierno español desclasificó quince años después.
+
+
 
 ---
 
@@ -840,6 +870,8 @@ Lo que el Capítulo 4 permite afirmar es que el fenómeno UAP no es un subproduc
 
 Lo que el Capítulo 4 no permite afirmar es qué son esos objetos. El testimonio profesional, incluso cuando está respaldado por instrumentos y documentado en expedientes oficiales, puede establecer que algo ocurrió. No puede establecer qué fue. Para eso hacen falta instrumentos diseñados específicamente para medir el fenómeno: análisis espectrográfico, telemetría, infrarrojo de alta resolución, estudio de efectos físicos en el entorno. Ese tipo de evidencia no proviene de pilotos en cabina de combate. Proviene de laboratorios. Y los laboratorios que la han producido son la materia del Capítulo 5.
 
+
+
 ---
 
 <!-- cap04-D.md -->
@@ -859,7 +891,7 @@ El Capítulo 4 ha reunido tres casos para responder esa pregunta. Los tres está
 
 Ocurre lo siguiente.
 
-Los instrumentos los detectan como objetos físicos reales. El radar del F-4 Phantom en Teherán pintó una firma del tamaño de un Boeing 707. El radar del Mirage F1 en Manises registró un objeto que aceleró más allá de Mach 1.4. El dosímetro de Halt en Rendlesham midió radiación de 0.1 milliroentgens por hora en el sitio donde el objeto había estado más cerca del suelo. No son luces lejanas. No son ilusiones ópticas. Son objetos con sección transversal de radar, con firma térmica o electromagnética, con efectos físicos medibles en el entorno.
+Los instrumentos los detectan como objetos físicos reales. El radar del F-4 Phantom en Teherán pintó una firma del tamaño de un Boeing 707. El radar del Mirage F1 en Manises registró un objeto que aceleró más allá de Mach 1.4. El dosímetro de Halt en Rendlesham midió lecturas de 0.1 milliroentgens —la unidad operacional habitual de los dosímetros de la época— en el sitio donde el objeto había estado más cerca del suelo. No son luces lejanas. No son ilusiones ópticas. Son objetos con sección transversal de radar, con firma térmica o electromagnética, con efectos físicos medibles en el entorno.
 
 Los sistemas de las aeronaves responden de forma anómala en proximidad al objeto. En Teherán, dos F-4 distintos perdieron comunicaciones al aproximarse; el segundo perdió además el sistema de armamento al intentar disparar. En Manises, los instrumentos del Mirage F1 reportaron comportamiento fuera de parámetros durante la aproximación. En los tres casos —dos cazas distintos, dos países distintos— los sistemas se restauraron al aumentar la distancia. La correlación temporal está documentada en dos expedientes independientes. La causalidad no está probada en ninguno. Pero un patrón que se repite en dos continentes con dos fuerzas aéreas distintas merece ser llamado patrón.
 
@@ -878,6 +910,8 @@ Eso no prueba el origen de los objetos. Ni Teherán, ni Rendlesham, ni Manises p
 El memorando de la DIA tiene fecha de 1976. El memorando Halt tiene fecha de 1981. El expediente de Manises fue desclasificado en 1994. Tres documentos de tres gobiernos en un arco de dieciocho años. Ninguno dice qué eran los objetos. Los tres dicen, cada uno en el lenguaje de su burocracia: algo ocurrió y no pudimos explicarlo.
 
 Pero los instrumentos militares están diseñados para detectar amenazas, no para analizar fenómenos. Para entender qué son estos objetos hace falta otro tipo de instrumento —el que usan los laboratorios científicos cuando miden efectos físicos en la materia. El Capítulo 5 documenta el caso donde eso ocurrió: Trans-en-Provence, 1981, el análisis botánico más riguroso jamás realizado sobre los efectos de un fenómeno aéreo no identificado en el entorno.
+
+
 
 ---
 
@@ -914,7 +948,7 @@ El GEPAN tomó muestras de vegetación del sitio de aterrizaje y muestras de con
 
 Lo que Bounias encontró fue una serie de alteraciones en la vegetación del sitio de aterrizaje que no estaban presentes en las muestras de control:
 
-Primero: pérdida de clorofila. Las hojas de luzerna —alfalfa, el cultivo predominante en la terraza— mostraban una reducción de entre el 30 y el 50 por ciento en su contenido de clorofila en comparación con las plantas no expuestas. La clorofila no se degrada espontáneamente en esas proporciones sin una causa externa: infección, sequía, contaminación química o exposición térmica.
+Primero: pérdida de clorofila. Las hojas de luzerna —alfalfa, el cultivo predominante en la terraza— mostraban una reducción documentada en el rango del 30 al 50 por ciento en su contenido de clorofila en comparación con las plantas no expuestas, según el análisis de Bounias interpretado en la literatura secundaria que cita la Note technique. La clorofila no se degrada espontáneamente en esas proporciones sin una causa externa: infección, sequía, contaminación química o exposición térmica.
 
 Segundo: daño celular. El análisis microscópico de los tejidos vegetales reveló daños en las paredes celulares y en los orgánulos internos —cloroplastos, mitocondrias— compatibles con exposición a temperaturas entre 300 y 600 grados Celsius por un período muy breve. Debo precisar: el rango de temperatura no fue medido directamente —no había un termómetro en el sitio durante el evento— sino inferido por Bounias a partir de los patrones de daño celular observados. Es una estimación científica, no un dato directo. Pero es la estimación de un bioquímico del INRA usando métodos de análisis de estrés vegetal validados por décadas de investigación agronómica.
 
@@ -939,6 +973,8 @@ Lo que el caso Trans-en-Provence permite afirmar es acotado pero irreductible: e
 Nada de eso dice qué era el objeto que Nicolaï vio. Pero dice —con el respaldo de dos instituciones científicas nacionales y una publicación revisada por pares— que algo físico ocurrió en ese lugar y que sus efectos no pertenecen a ninguna categoría conocida de fenómeno natural o artificial.
 
 Treinta años antes de Trans-en-Provence, en julio de 1952, el fenómeno apareció sobre la capital de los Estados Unidos. Los testigos no fueron un agricultor ni un equipo de científicos. Fueron operadores de radar, pilotos de interceptación, y miles de ciudadanos que vieron luces sobre Washington D.C. durante dos fines de semana consecutivos. La respuesta institucional fue la rueda de prensa más concurrida desde la Segunda Guerra Mundial. Y la conclusión fue la misma: algo ocurrió. No pudimos explicarlo.
+
+
 
 ---
 
@@ -995,6 +1031,8 @@ Trans-en-Provence y Washington D.C. son complementarios, no redundantes. Trans-e
 
 En 1986, treinta y cuatro años después de Washington D.C., un Boeing 747 de Japan Airlines con 156 pasajeros a bordo sobrevolaba Alaska cuando el capitán Kenju Terauchi vio algo fuera de su ventanilla que no era un avión. El radar de tierra de Anchorage lo confirmó. El radar de a bordo del 747 lo confirmó. Y el objeto se quedó allí durante casi una hora — tiempo suficiente para que tres tripulantes lo vieran, dos radares lo rastrearan, y la FAA abriera una investigación.
 
+
+
 ---
 
 <!-- cap05-C.md -->
@@ -1037,6 +1075,8 @@ Ningún error de radar dura cincuenta minutos. Ninguna ilusión óptica sigue a 
 El Capítulo 5 ha reunido tres casos que miden el fenómeno desde ángulos distintos. Trans-en-Provence midió los efectos físicos que deja en el entorno: marcas en el suelo, daños biológicos, gradiente de energía. Washington D.C. midió su presencia en tiempo real con confirmación radar múltiple y visual. JAL 1628 midió su persistencia: casi una hora de rastreo, tres tripulantes observándolo, dos radares de tierra confirmándolo, y un piloto con 10.000 horas de vuelo que pagó un costo profesional por haberlo reportado.
 
 Ninguno de los tres casos establece qué eran los objetos. Los tres establecen —desde la huella material, desde la detección remota y desde la persistencia prolongada— que el fenómeno es físicamente real. Y esa afirmación, que en el Capítulo 1 era una hipótesis basada en la consistencia de testimonios a lo largo de dos milenios y medio, tiene ahora el respaldo de laboratorios nacionales, sistemas de radar independientes e investigaciones oficiales de aviación civil.
+
+
 
 ---
 
@@ -1081,9 +1121,11 @@ La escalada no es casual. Es el argumento por eliminación construyendo su base.
 
 Lo que el Capítulo 5 no permite afirmar es qué son esos objetos. Tampoco permite afirmar que los tres casos describen el mismo fenómeno —solo que comparten un núcleo de características que los instrumentos registraron y las instituciones documentaron. Y no permite afirmar que el fenómeno tenga origen no humano. Esa conclusión, si la evidencia la autoriza, pertenece a la Parte III.
 
-Pero los Capítulos 4 y 5 documentaron casos individuales. El Capítulo 7 cambia de escala: trata lo que admitieron los gobiernos cuando sistematizaron la investigación —no un caso, sino un programa. El GEIPAN francés. Los archivos desclasificados del Reino Unido. Los programas de Brasil, Chile y Argentina. Si los casos individuales son inexplicables, ¿qué hicieron los estados cuando investigaron el fenómeno de forma sistemática?
+Pero los Capítulos 4 y 5 documentaron casos individuales. El Capítulo 6 examina el caso que forzó al Pentágono a una admisión pública sin precedentes: el incidente Nimitz de 2004, donde el sistema de combate más avanzado de la Armada estadounidense detectó objetos que no pudo clasificar. El Capítulo 7 cambia de escala: trata lo que admitieron los gobiernos cuando sistematizaron la investigación —no un caso, sino un programa. El GEIPAN francés. Los archivos desclasificados del Reino Unido. Los programas de Brasil, Chile y Argentina. Si los casos individuales son inexplicables, ¿qué hicieron los estados cuando investigaron el fenómeno de forma sistemática?
 
 En 1883, José Bonilla fotografió algo sobre Zacatecas y no pudo identificarlo. En 1952, tres radares en Washington D.C. pintaron lo mismo. En 1981, el CNES y el INRA midieron sus efectos en el suelo de una terraza francesa. En 1986, la FAA reconstruyó su trayectoria durante cuarenta y ocho minutos. Ciento tres años de instrumentos cada vez más precisos. Ninguna explicación. El fenómeno no se volvió más explicable a medida que la tecnología mejoró. Se volvió más documentado.
+
+
 
 ---
 
@@ -1168,6 +1210,9 @@ Regresaron al Nimitz sin el objeto. Sin explicación. Sin categoría para lo que
 
 Horas después, Underwood despegó en otro F/A-18F con una cápsula FLIR acoplada al fuselaje —un sensor infrarrojo de alta resolución diseñado para rastrear aeronaves enemigas a larga distancia. Lo que Underwood grabó es el video FLIR1. Lo que Fravor vio y lo que Underwood grabó son dos eventos distintos, con dos tipos de evidencia distintos, separados por horas. El libro mantiene esa distinción porque la evidencia la exige.
 
+
+
+
 ---
 
 <!-- cap06-B.md -->
@@ -1210,7 +1255,7 @@ El libro ha aplicado el mismo método a cada caso que ha examinado: presentar la
 
 **Dron.** En noviembre de 2004, el desarrollo de drones con capacidad de vuelo autónomo estaba en sus primeras fases. El MQ-1 Predator operaba a altitudes medias y velocidades subsónicas —no descendía de 28.000 metros a nivel del mar en segundos, no carecía de superficies de control visibles, no ejecutaba maniobras sin equivalentes aerodinámicos conocidos. Ningún dron operacional en 2004, de ningún país, tenía la combinación de techo operativo, velocidad de descenso y maniobrabilidad que los pilotos describieron y el radar registró. Extrapolar capacidades futuras a 2004 no es evaluación de hipótesis: es especulación.
 
-**Avión experimental.** Ningún programa de desarrollo aeronáutico conocido —estadounidense o extranjero— en 2004 producía un objeto con las características documentadas en el incidente Nimitz. Un prototipo con capacidad de descenso desde 28.000 metros hasta nivel del mar y maniobras sin superficies de control habría representado una revolución en ingeniería aeronáutica sin precedentes. Ningún programa de esa envergadura ha sido revelado, filtrado ni admitido en las dos décadas transcurridas desde el incidente. El argumento de que podría existir en secreto no es un argumento contra la eliminación —es el argumento de tecnología humana secreta que el Capítulo 9 evaluó para el núcleo verificable y no pudo sostener.
+**Avión experimental.** Ningún programa de desarrollo aeronáutico conocido —estadounidense o extranjero— en 2004 producía un objeto con las características documentadas en el incidente Nimitz. Un prototipo con capacidad de descenso desde 28.000 metros hasta nivel del mar y maniobras sin superficies de control habría representado una revolución en ingeniería aeronáutica sin precedentes. Ningún programa de esa envergadura ha sido revelado, filtrado ni admitido en las dos décadas transcurridas desde el incidente. El argumento de que podría existir en secreto no es un argumento contra la eliminación —es el argumento de tecnología humana secreta que el Capítulo 9 examinará para el núcleo verificable.
 
 **Globo.** Un globo aerostático no maniobra activamente hacia un F/A-18F que se aproxima. No acelera lateralmente fuera del encuadre de un sensor infrarrojo. No aparece en el CAP point antes de que los cazas despeguen y desaparece al ser sobrevolado. La hipótesis es incompatible con el comportamiento documentado.
 
@@ -1236,6 +1281,8 @@ Antes del 27 de abril de 2020, un escéptico podía argumentar que los videos de
 Ese es el hecho documental. Todo lo demás —las declaraciones de Fravor ante el Congreso, el testimonio de Day sobre lo que el radar mostró, las declaraciones posteriores de Underwood— es evidencia testimonial de testigos con credibilidad institucional verificable. No es prueba del origen del objeto. Es prueba de que el sistema que debía identificarlo no pudo.
 
 El caso Nimitz no cierra el argumento del libro. Lo deja exactamente donde debe estar: abierto. Lo abre hacia la pregunta que la Parte III examina: si el gobierno más poderoso del mundo autenticó el encuentro y no pudo explicarlo, ¿qué hipótesis quedan en pie cuando se aplica el proceso de eliminación a la evidencia disponible?
+
+
 
 ---
 
@@ -1292,6 +1339,8 @@ Francia no llegó a una conclusión sobre el origen de los objetos. Pero sistema
 
 El Reino Unido tomó un camino distinto. No creó un organismo permanente como Francia —pero acumuló archivos durante décadas y los liberó bajo presión de la Freedom of Information Act. El resultado es distinto en forma pero similar en fondo: 60.000 páginas de documentación oficial que registran avistamientos, investigan casos, y no encuentran explicación para los más sólidos.
 
+
+
 ---
 
 <!-- cap07-B.md -->
@@ -1330,6 +1379,8 @@ El contraste con Francia es deliberado y debe hacerse explícito. Francia creó 
 Lo que el Reino Unido añade al argumento del Capítulo 7 no es un caso nuevo —Rendlesham ya fue presentado— sino la evidencia de que un segundo Estado, con una tradición institucional completamente distinta a la francesa y sin un organismo permanente como el GEIPAN, llegó al mismo punto: décadas de documentación, investigación inconsistente pero no inexistente, y un residuo de casos sin explicación que los archivos oficiales preservan sin resolver.
 
 Brasil, Chile y Argentina tomaron un tercer camino. No crearon agencias espaciales con mandato científico como Francia, ni acumularon archivos en silencio como el Reino Unido. Desclasificaron activamente documentos como política de Estado y crearon organismos específicamente dedicados a investigar y publicar. El resultado es el archivo gubernamental más transparente del mundo sobre el fenómeno.
+
+
 
 ---
 
@@ -1372,6 +1423,8 @@ El Capítulo 6 ha documentado tres modelos institucionales distintos. Cada uno e
 
 Lo que los tres modelos comparten no es una conclusión sobre el origen del fenómeno —ninguno llegó a afirmar que los objetos fueran de origen no humano. Lo que comparten es el reconocimiento institucional de que hay un residuo de casos que las categorías disponibles no alcanzan a explicar, y que ese residuo merece ser documentado, clasificado y publicado. Ese reconocimiento —expresado por agencias espaciales, ministerios de defensa y fuerzas aéreas de distintos continentes, en distintos idiomas, con distintas metodologías— es, por sí solo, un dato que el argumento del libro no puede ignorar.
 
+
+
 ---
 
 <!-- cap07-D.md -->
@@ -1409,15 +1462,15 @@ El Capítulo 7 no permite afirmar cuál es esa explicación. No permite afirmar 
 
 Lo que sí permite afirmar —y con un respaldo institucional que ningún capítulo anterior había reunido— es que el fenómeno no es un subproducto de la credulidad, la desinformación o el error de medición. Si lo fuera, los archivos de seis países no contendrían el mismo residuo inexplicable después de décadas de investigación. Lo contienen. Y ese residuo es el punto de partida de la Parte III.
 
-La Parte II de este libro documentó lo que los instrumentos midieron y lo que los gobiernos sistematizaron. La evidencia es sólida pero incompleta: establece que el fenómeno es físicamente real, que resiste la investigación sistemática de múltiples estados y que ningún gobierno llegó a explicarlo. Pero la pregunta central —¿qué son estos objetos?— sigue abierta.
+La Parte II de este libro documentó lo que los instrumentos midieron, lo que los gobiernos sistematizaron y lo que el Pentágono —con el caso Nimitz— terminó admitiendo. La evidencia es sólida pero incompleta: establece que el fenómeno es físicamente real, que resiste la investigación sistemática de múltiples estados y que ningún gobierno llegó a explicarlo. Pero la pregunta central —¿qué son estos objetos?— sigue abierta.
 
-Antes de que la Parte III la aborde por eliminación, hay un caso que este libro no puede omitir. No porque cierre la pregunta —no la cierra— sino porque cambió las reglas del debate. El 14 de noviembre de 2004, el sistema de combate más avanzado de la Armada de los Estados Unidos detectó objetos que no pudo clasificar. Pilotos de combate los persiguieron. Un sensor infrarrojo los grabó. Dieciséis años después, el Pentágono autenticó el video. Es el caso Nimitz.
-
-La Parte III aborda la pregunta por eliminación rigurosa. Capítulo 8: ¿puede ser error de percepción? Capítulo 9: ¿puede ser tecnología humana secreta? Capítulo 10: ¿qué queda cuando se elimina lo que la evidencia permite eliminar?
+La Parte III aborda esa pregunta por eliminación rigurosa. Capítulo 8: ¿puede ser error de percepción? Capítulo 9: ¿puede ser tecnología humana secreta? Capítulo 10: ¿qué queda cuando se elimina lo que la evidencia permite eliminar?
 
 Seis países —Francia, Reino Unido, Brasil, Chile, Argentina, Estados Unidos— tienen en sus archivos oficiales casos de fenómenos aéreos no identificados que sus mejores instrumentos registraron y que sus mejores analistas no pudieron explicar. No es un caso. No es una época. No es un continente. Seis países, seis archivos, el mismo residuo.
 
 Eso no responde qué son los objetos. Pero hace insostenible afirmar que no existen.
+
+
 
 ---
 
@@ -1455,6 +1508,8 @@ La hipótesis psicológica, en suma, explica bien los avistamientos de baja cali
 Lo que este capítulo debe evaluar a continuación no es si la hipótesis psicológica explica la mayoría de los avistamientos —la explica— sino si explica el núcleo específico de casos que la Parte II documentó. Casos donde los objetos fueron registrados por múltiples sistemas de radar independientes. Casos donde laboratorios nacionales midieron efectos físicos en el entorno y publicaron los resultados en revistas revisadas por pares. Casos donde el memorando de un oficial de alto rango de una base nuclear documentó marcas en el suelo, radiación y observación visual simultánea. Casos donde un piloto de combate intentó disparar un misil y sus sistemas fallaron en el momento del intento, y la DIA evaluó el caso como clásico y digno de estudio.
 
 Eso es lo que la Sección B evalúa.
+
+
 
 ---
 
@@ -1503,7 +1558,7 @@ La pareidolia no produce una corona circular de 2.2 metros de diámetro con suel
 
 La contaminación cultural no produce pérdida de clorofila del 30 al 50 por ciento con gradiente concéntrico de daño analizado por el instituto nacional de investigación agrícola de Francia.
 
-La parálisis del sueño no produce 0.1 milliroentgens por hora en tres depresiones triangulares medidas por la Policía de Suffolk.
+La parálisis del sueño no produce lecturas de 0.1 milliroentgens —la unidad operacional habitual de los dosímetros de la época— en tres depresiones triangulares medidas por la Policía de Suffolk.
 
 El sesgo de confirmación no produce la firma de radar de un Boeing 707 en la pantalla de un F-4 Phantom.
 
@@ -1516,6 +1571,8 @@ La hipótesis cognitiva es sólida para el corpus general de avistamientos —lo
 Lo que el Capítulo 8 establece requiere tres precisiones. La primera: la hipótesis cognitiva explica bien el corpus general de avistamientos —la pareidolia, la contaminación cultural y la parálisis del sueño son mecanismos reales que operan sobre un porcentaje significativo de reportes. El descarte no niega eso. Afirma que el núcleo verificable —el subconjunto con confirmación instrumental independiente y evidencia física medible— no puede explicarse por esos mecanismos, porque todos operan en la mente y la mente no produce marcas en el suelo, firmas de radar ni lecturas de dosímetro. La segunda: eliminar esta hipótesis reduce el espacio de lo posible. Si el fenómeno pudiera explicarse por error de percepción, la investigación terminaría aquí. No puede. La tercera: eliminar la hipótesis cognitiva no equivale a afirmar origen no humano. Solo elimina una explicación. El argumento por eliminación recorre todas las alternativas antes de señalar lo que queda.
 
 Lo que queda después del Capítulo 8 es un fenómeno físicamente real que no es error de percepción. Quedan dos hipótesis. La primera —tecnología humana secreta— es la más cómoda para quien acepta la realidad física pero se resiste a una conclusión más radical. El Capítulo 9 la examina con el mismo rigor con el que el Capítulo 8 examinó la hipótesis cognitiva.
+
+
 
 ---
 
@@ -1563,6 +1620,8 @@ El problema de la filtración: los secretos tecnológicos se filtran. Los progra
 El problema de la escala geográfica: los objetos aparecen sobre Irán, Inglaterra, España, Francia, Estados Unidos, Brasil, Chile, Japón —un despliegue global que requeriría o bien una tecnología al alcance de múltiples países simultáneamente, o bien una capacidad de proyección que ningún Estado posee.
 
 La Sección B examina esos tres problemas.
+
+
 
 ---
 
@@ -1617,6 +1676,8 @@ Lo que el Capítulo 9 establece requiere tres precisiones. La primera: una fracc
 
 El espacio de hipótesis se ha reducido dos veces. El Capítulo 8 eliminó el error de percepción para el núcleo. El Capítulo 9 eliminó la tecnología humana secreta para ese mismo núcleo. Lo que queda no es el vacío —es la posición desde la que el Capítulo 10 puede examinar la única hipótesis que las demás no alcanzaron a descartar.
 
+
+
 ---
 
 <!-- cap10-A.md -->
@@ -1657,6 +1718,8 @@ Ninguna de estas cuatro compatibilidades prueba la hipótesis. La compatibilidad
 Lo que el Capítulo 10 puede afirmar es el resultado de un proceso, no la revelación de una verdad. Dos hipótesis fueron eliminadas para el núcleo verificable mediante el contraste sistemático con la evidencia disponible. Una tercera no pudo ser eliminada. Esa tercera —agencia no humana— queda señalada como la conclusión provisional más honesta que el estado actual de la evidencia permite.
 
 Eso no es lo mismo que saber qué son los objetos. No es lo mismo que saber de dónde vienen. No es lo mismo que saber qué quieren —si es que quieren algo. Es saber que ninguna de las explicaciones humanas disponibles resistió el examen, y que la única que resistió apunta en una dirección que la humanidad lleva siglos viendo y que aún no ha podido nombrar.
+
+
 
 ---
 
@@ -1707,7 +1770,7 @@ Lo que esta sección puede entregar no es una identidad. Es la coherencia entre 
 
 ### Lo que el método no puede esquivar
 
-Los Capítulos 7 y 8 aplicaron el proceso de eliminación a dos hipótesis convencionales. El error de percepción fue contrastado contra la evidencia instrumental y no resistió. La tecnología humana secreta fue contrastada contra la historia de los programas clasificados y no resistió. La hipótesis de agencia no humana quedó en pie porque las otras dos cayeron. Pero nunca fue sometida al mismo proceso.
+Los Capítulos 8 y 9 aplicaron el proceso de eliminación a dos hipótesis convencionales. El error de percepción fue contrastado contra la evidencia instrumental y no resistió. La tecnología humana secreta fue contrastada contra la historia de los programas clasificados y no resistió. La hipótesis de agencia no humana quedó en pie porque las otras dos cayeron. Pero nunca fue sometida al mismo proceso.
 
 Esa asimetría es un problema. Si el libro aplica un estándar de eliminación a las hipótesis que descarta y se limita a señalar compatibilidades para la hipótesis que retiene, el método no es simétrico. Un método asimétrico no invalida la conclusión —pero le resta el rigor que pretende tener. Lo que sigue aplica a la hipótesis de agencia no humana el mismo proceso que los capítulos anteriores aplicaron a las otras dos. El resultado no es descartarla. Es evaluar cuánto peso puede sostener.
 
@@ -1724,6 +1787,12 @@ La hipótesis de agencia no humana es la que mejor se ajusta al corpus verificab
 El argumento ha recorrido diez capítulos y establece tres cosas. La primera: el fenómeno es físicamente real —no como opinión, como medición. Seis países tienen en sus archivos oficiales evidencia que sus propios analistas no pudieron explicar. La segunda: ninguna de las hipótesis convencionales explica el núcleo verificable. El error de percepción opera en la mente; la tecnología humana secreta tiene fecha de inicio y patrón de filtración. El núcleo no tiene ninguna de esas cosas. La tercera: la hipótesis de agencia no humana es la única que el proceso no eliminó. Compatible con la antigüedad del patrón, con la ausencia de filtración, con la escala del despliegue, con el comportamiento documentado. Sin certeza. Sin revelación. Señalada —no probada.
 
 El fenómeno lleva siendo documentado desde el año 593 antes de Cristo. Los instrumentos mejoraron durante dos mil seiscientos años. La conclusión que la evidencia permite no cambió en todo ese tiempo: hay algo en el cielo que responde a nuestras acciones, que nuestros instrumentos registran como físicamente real, y que no hemos construido ni hemos logrado entender. Eso no es un fracaso de la ciencia. Es la descripción exacta de dónde estamos. El Epílogo no prolonga el argumento. Lo sitúa en el momento en que este libro se publica —2026, el año en que los gobiernos comenzaron a publicar lo que antes archivaban.
+
+El proceso de eliminación no entrega la identidad de los objetos. Entrega la reducción del espacio de explicaciones disponibles. El error de percepción no resistió la evidencia instrumental. La tecnología humana secreta no resistió la evidencia histórica ni la comportamental. Lo que queda después de esas dos eliminaciones no es una prueba de agencia no humana. Es la posición a la que el método conduce cuando se aplica sin atajos: una hipótesis no eliminada, compatible con toda la evidencia disponible, señalada por el proceso sin que el investigador la haya elegido.
+
+Este libro se detiene donde la evidencia pública se detiene. Lo que la evidencia permita afirmar mañana dependerá de lo que los gobiernos publiquen y de lo que los instrumentos registren. La dirección está señalada. Seguirla o no es una decisión que este argumento no puede tomar por el lector.
+
+
 
 ---
 
@@ -1761,3 +1830,4 @@ El Libro 2 pregunta algo distinto: ¿qué ocurrió cuando los gobiernos dejaron 
 En 1952, el general Samford dijo ante la prensa que no sabía qué eran los objetos sobre Washington D.C. En 2026, el mismo gobierno empezó a publicar lo que había archivado.
 
 Setenta y cuatro años entre esas dos respuestas. Este libro se escribió en ese intervalo. No esperó a que el gobierno hablara. Llegó a donde llegó por eliminación: contrastando hipótesis contra evidencia, descartando lo que no resistía, señalando lo que quedó. Su conclusión no depende de lo que el *disclosure* confirme mañana. Es el producto de un método aplicado a la evidencia que ya era pública.
+
