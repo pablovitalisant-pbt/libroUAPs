@@ -31,11 +31,9 @@ El Capítulo 7 no permite afirmar cuál es esa explicación. No permite afirmar 
 
 Lo que sí permite afirmar —y con un respaldo institucional que ningún capítulo anterior había reunido— es que el fenómeno no es un subproducto de la credulidad, la desinformación o el error de medición. Si lo fuera, los archivos de seis países no contendrían el mismo residuo inexplicable después de décadas de investigación. Lo contienen. Y ese residuo es el punto de partida de la Parte III.
 
-La Parte II de este libro documentó lo que los instrumentos midieron y lo que los gobiernos sistematizaron. La evidencia es sólida pero incompleta: establece que el fenómeno es físicamente real, que resiste la investigación sistemática de múltiples estados y que ningún gobierno llegó a explicarlo. Pero la pregunta central —¿qué son estos objetos?— sigue abierta.
+La Parte II de este libro documentó lo que los instrumentos midieron, lo que los gobiernos sistematizaron y lo que el Pentágono —con el caso Nimitz— terminó admitiendo. La evidencia es sólida pero incompleta: establece que el fenómeno es físicamente real, que resiste la investigación sistemática de múltiples estados y que ningún gobierno llegó a explicarlo. Pero la pregunta central —¿qué son estos objetos?— sigue abierta.
 
-Antes de que la Parte III la aborde por eliminación, hay un caso que este libro no puede omitir. No porque cierre la pregunta —no la cierra— sino porque cambió las reglas del debate. El 14 de noviembre de 2004, el sistema de combate más avanzado de la Armada de los Estados Unidos detectó objetos que no pudo clasificar. Pilotos de combate los persiguieron. Un sensor infrarrojo los grabó. Dieciséis años después, el Pentágono autenticó el video. Es el caso Nimitz.
-
-La Parte III aborda la pregunta por eliminación rigurosa. Capítulo 8: ¿puede ser error de percepción? Capítulo 9: ¿puede ser tecnología humana secreta? Capítulo 10: ¿qué queda cuando se elimina lo que la evidencia permite eliminar?
+La Parte III aborda esa pregunta por eliminación rigurosa. Capítulo 8: ¿puede ser error de percepción? Capítulo 9: ¿puede ser tecnología humana secreta? Capítulo 10: ¿qué queda cuando se elimina lo que la evidencia permite eliminar?
 
 Seis países —Francia, Reino Unido, Brasil, Chile, Argentina, Estados Unidos— tienen en sus archivos oficiales casos de fenómenos aéreos no identificados que sus mejores instrumentos registraron y que sus mejores analistas no pudieron explicar. No es un caso. No es una época. No es un continente. Seis países, seis archivos, el mismo residuo.
 
