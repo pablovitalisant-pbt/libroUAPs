@@ -29,7 +29,7 @@ El GEPAN tomó muestras de vegetación del sitio de aterrizaje y muestras de con
 
 Lo que Bounias encontró fue una serie de alteraciones en la vegetación del sitio de aterrizaje que no estaban presentes en las muestras de control:
 
-Primero: pérdida de clorofila. Las hojas de luzerna —alfalfa, el cultivo predominante en la terraza— mostraban una reducción de entre el 30 y el 50 por ciento en su contenido de clorofila en comparación con las plantas no expuestas. La clorofila no se degrada espontáneamente en esas proporciones sin una causa externa: infección, sequía, contaminación química o exposición térmica.
+Primero: pérdida de clorofila. Las hojas de luzerna —alfalfa, el cultivo predominante en la terraza— mostraban una reducción documentada en el rango del 30 al 50 por ciento en su contenido de clorofila en comparación con las plantas no expuestas, según el análisis de Bounias interpretado en la literatura secundaria que cita la Note technique. La clorofila no se degrada espontáneamente en esas proporciones sin una causa externa: infección, sequía, contaminación química o exposición térmica.
 
 Segundo: daño celular. El análisis microscópico de los tejidos vegetales reveló daños en las paredes celulares y en los orgánulos internos —cloroplastos, mitocondrias— compatibles con exposición a temperaturas entre 300 y 600 grados Celsius por un período muy breve. Debo precisar: el rango de temperatura no fue medido directamente —no había un termómetro en el sitio durante el evento— sino inferido por Bounias a partir de los patrones de daño celular observados. Es una estimación científica, no un dato directo. Pero es la estimación de un bioquímico del INRA usando métodos de análisis de estrés vegetal validados por décadas de investigación agronómica.
 

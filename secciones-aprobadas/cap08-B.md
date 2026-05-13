@@ -41,7 +41,7 @@ La pareidolia no produce una corona circular de 2.2 metros de diámetro con suel
 
 La contaminación cultural no produce pérdida de clorofila del 30 al 50 por ciento con gradiente concéntrico de daño analizado por el instituto nacional de investigación agrícola de Francia.
 
-La parálisis del sueño no produce 0.1 milliroentgens por hora en tres depresiones triangulares medidas por la Policía de Suffolk.
+La parálisis del sueño no produce lecturas de 0.1 milliroentgens —la unidad operacional habitual de los dosímetros de la época— en tres depresiones triangulares medidas por la Policía de Suffolk.
 
 El sesgo de confirmación no produce la firma de radar de un Boeing 707 en la pantalla de un F-4 Phantom.
 
